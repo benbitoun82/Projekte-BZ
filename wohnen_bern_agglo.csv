@@ -1,0 +1,1009 @@
+objekt_id,kategorie,objekt_strasse,objekt_ort,plz,zimmer,nutzflaeche,nettomiete,nebenkosten,bruttomiete
+1108404,Wohnung,"Oberfeld, Jurablickweg 7",Ostermundigen,3072,3.5,76,1680,240,1920
+2034884,Wohnung,Freiestrasse 35,Bern,3012,2.5,45,1110,170,1280
+3255700,Wohnung,Gerbestrasse 11,Ostermundigen,3072,3,NULL,1100,150,1250
+3563474,Wohnung,Brunngasse 48,Bern,3011,1.5,42,1080,190,1270
+3852208,Wohnung,Murtenstrasse 256,Bern,3027,2.5,55,1110,150,1260
+3911925,Wohnung,Melchiorstrasse 7,Bern,3027,4.5,NULL,1698,270,1968
+4941186,Wohnung,Bachstrasse 6,Ostermundigen,3072,2.5,51,1110,180,1290
+4941976,Wohnung,Depotstrasse 2,Bern,3012,2.5,80,1720,150,1870
+5085000,Wohnung,Grabenpromenade 5,Bern,3011,3.5,88,1805,230,2035
+5293494,Wohnung,Ostermundigenstrasse 40,Bern,3006,4,90,1430,290,1720
+5321353,Wohnung,Obere Zollgasse 68,Ostermundigen,3072,3.5,NULL,1220,230,1450
+5368777,Wohnung,Schänzlistrasse 19,Bern,3013,2,NULL,NULL,NULL,NULL
+5478472,Wohnung,Ringstrasse 9,Ostermundigen,3072,1,25,700,120,820
+5545111,Wohnung,Lerchenweg 37,Bern,3012,2.5,67,1530,150,1680
+5705514,Wohnung,Altenbergstrasse 38,Bern,3013,2,NULL,1232,180,1412
+5753532,Wohnung,Murtenstrasse 143 B,Bern,3008,2,43,1130,170,1300
+5805446,Wohnung,Hostettlerweg 4,Bern,3006,2.5,66,1950,180,2130
+5857618,Wohnung,Flurweg 34,Ostermundigen,3072,3,56,1150,220,1370
+5924472,Wohnung,Flurweg 34,Ostermundigen,3072,3,56,1150,220,1370
+6004664,Wohnung,Hostettlerweg 4,Bern,3006,3.5,98,2500,271,2771
+6053024,Wohnung,Gerbestrasse 11a,Ostermundigen,3072,3.5,NULL,1270,220,1490
+6110498,Wohnung,Neuhausweg 21,Bern,3027,3.5,NULL,1450,255,1705
+6112079,Wohnung,Ringstrasse 11,Ostermundigen,3072,3.5,55,1250,180,1430
+6122490,Wohnung,Postgasse 44,Bern,3011,3.5,104,2470,250,2720
+6128253,Wohnung,Winkelweg 12,Ostermundigen,3072,2,45,1300,150,1450
+6148960,Wohnung,Bolligenstr.28a,Bern,3006,3,97,1660,230,1890
+6173977,Wohnung,Murtenstrasse 143 B,Bern,3008,2,48,1250,170,1420
+6176331,Wohnung,Neuhausweg 21,Bern,3027,3,NULL,1320,245,1565
+6205870,Wohnung,Obere Zollgasse 35,Ostermundigen,3072,3.5,60,1300,220,1520
+6212726,Wohnung,Sonnenbergrain 4,Bern,3013,6.5,150,3800,450,4250
+6224222,Wohnung,Heggidorn 56,Frauenkappelen,3202,4.5,85,1440,200,1640
+6244359,Wohnung,Dennigkofenweg 185,Ostermundigen,3072,3.5,84,1700,250,1950
+6255979,Wohnung,Sonnenbergrain 57,Bern,3013,5.5,135,3500,450,3950
+6256527,Wohnung,Nydeggstalden 2,Bern,3011,2,NULL,2790,200,2990
+6262384,Wohnung,Zälglistrasse 8,Frauenkappelen,3202,4.5,94,1300,300,1600
+6271320,Wohnung,Schänzlistrasse 65,Bern,3013,2,44,1390,180,1570
+6272812,Wohnung,Waldheimstrasse 8,Bern,3012,3,57,1300,220,1520
+6274407,Wohnung,Reiterstrasse 15,Bern,3013,2,45,1210,170,1380
+6279375,Wohnung,Holenackerstrasse 11,Bern,3027,3.5,73,1330,260,1590
+6281777,Wohnung,Gerbestrasse 21,Ostermundigen,3072,4,NULL,1100,250,1350
+6282244,Wohnung,Oberer Flurweg 124,Ostermundigen,3072,3.5,NULL,1380,240,1620
+6288079,Haus,Obere Zollgasse 59 A,Ostermundigen,3072,4.5,90,NULL,NULL,2450
+6289951,Wohnung,Bachstrasse 12,Ostermundigen,3072,3.5,68,1240,250,1490
+6294415,Wohnung,Murtenstrasse 4,Frauenkappelen,3202,3,NULL,1340,250,1590
+6296870,Wohnung,Ringstrasse 11a,Ostermundigen,3072,3.5,55,1140,210,1350
+6299322,Wohnung,Gerbestrasse 24,Ostermundigen,3072,3,NULL,1100,300,1400
+6299331,Wohnung,Gerbestrasse 22,Ostermundigen,3072,3,NULL,1070,250,1320
+6301597,Wohnung,Aarbergergasse 57,Bern,3011,2.5,95,2050,250,2300
+6304922,Wohnung,Aehrenweg 27,Bern,3027,3,NULL,1100,190,1290
+6307725,Wohnung,Brunngasse 30,Bern,3011,1.5,NULL,1820,170,1990
+6312190,Wohnung,Heggidorn 56,Frauenkappelen,3202,4.5,85,1440,200,1640
+6328295,Wohnung,Länggassstrasse 32,Bern,3012,1,14,300,90,390
+6328661,Wohnung,Dennigkofenweg 160,Ostermundigen,3072,3,67,1200,200,1400
+6329378,Wohnung,Ringstrasse 3,Ostermundigen,3072,3.5,NULL,1150,220,1370
+6331095,Wohnung,Neuengasse 36,Bern,3011,3.5,120,2400,150,2550
+6335737,Wohnung,Radarstrasse 1,Bern,3013,3.5,80,1750,350,2100
+6335742,Wohnung,Radarstrasse 1,Bern,3013,4.5,86,1850,400,2250
+6339016,Wohnung,Güterstrasse 3,Ostermundigen,3072,3.5,86,1790,270,2060
+6339087,Wohnung,Humboldtstrasse 13,Bern,3013,5,115,2360,370,2730
+6342903,Wohnung,Falkenweg 17,Bern,3012,2,NULL,1150,180,1330
+6343178,Wohnung,Neuhausweg 23,Bern,3027,3,62,1150,170,1320
+6344794,Wohnung,Viktoriastr. 21 (Süd),Bern,3013,2.5,59,1580,150,1730
+6347276,Wohnung,Dennigkofenweg 183,Ostermundigen,3072,4.5,117,2150,300,2450
+6348177,Wohnung,Oberdorfstrasse 34,Ostermundigen,3072,3,72,1200,200,1400
+6348785,Wohnung,Obere Zollgasse 34,Ostermundigen,3072,3.5,62,1290,250,1540
+6350629,Wohnung,Pavillonweg 5,Bern,3012,1,21,540,60,600
+6350645,Wohnung,Waldheimstrasse 31,Bern,3012,3.5,72,2100,250,2350
+6352110,Wohnung,Murtenstrasse 143 B,Bern,3008,2,48,1230,170,1400
+6353546,Wohnung,Bolligenstr.28,Bern,3006,5.5,146,2540,460,3000
+6354120,Wohnung,Murtenstrasse 53A,Frauenkappelen,3202,3,NULL,1385,200,1585
+6354138,Wohnung,Murtenstrasse 53,Frauenkappelen,3202,3,NULL,1395,204,1599
+6354285,Wohnung,Nydeggstalden 10,Bern,3011,2.5,75,1750,NULL,1910
+6355952,Wohnung,Obere Zollgasse 51B,Ostermundigen,3072,4.5,NULL,1300,250,1550
+6357484,Wohnung,Bitziusstrasse 40,Bern,3006,3.5,88,2250,240,2490
+6359659,Wohnung,Humboldtstrasse 39,Bern,3013,2,42,1200,130,1330
+6359934,Wohnung,Murtenstrasse 143 B,Bern,3008,2,40,1080,170,1250
+6360477,Wohnung,Gerbestrasse 20,Ostermundigen,3072,4,NULL,1160,340,1500
+6361296,Wohnung,Gewerbestrasse,Bern,3012,1,21,NULL,NULL,849
+6362167,Wohnung,Speichergasse  23,Bern,3011,2,90,1800,150,1950
+6364475,Wohnung,Gesellschaftsstrasse 61,Bern,3012,3,75,NULL,NULL,1490
+2182194,Wohnung,Zelgstrasse 14,Bern,3027,3.5,86,1220,180,1400
+2344777,Wohnung,Billeweg 6,Bern,3027,4.5,100,1980,280,2260
+2417096,Wohnung,Schosshaldenstrasse 42,Bern,3006,3,NULL,1870,220,2090
+3733429,Wohnung,Hubelhüsistrasse 9,Mittelhäusern,3147,4.5,128,1990,390,2380
+4292302,Wohnung,Waldmannstrasse 14,Bern,3027,2.5,51,990,190,1180
+4379560,Wohnung,Keltenstrasse 35,Bern,3018,3.5,NULL,1190,240,1430
+4517385,Wohnung,Spitzackerweg 18 ,Niederscherli,3145,3.5,88,NULL,NULL,1700
+4781573,Wohnung,Freiburgstrasse 58,Bern,3008,2,109,NULL,NULL,760
+5084987,Wohnung,Freiburgstrasse 74,Bern,3008,1,35,890,100,990
+5378840,Wohnung,Waldmannstrasse 14,Bern,3027,3,NULL,1500,240,1740
+5547702,Wohnung,Mühledorfstrasse 21,Bern,3018,3.5,69,1520,170,1690
+5632652,Wohnung,,Bern,3011,4.5,111,2570,250,2820
+5712107,Wohnung,Rathausgasse 68,Bern,3011,2.5,71,1775,175,1950
+5720639,Wohnung,Murtenstrasse 143 B,Bern,3008,2,40,1170,170,1340
+5726538,Wohnung,Schenkstrasse 37,Bern,3008,3.5,65,1340,210,1550
+5754947,Wohnung,Waldmannstrasse 14,Bern,3027,3.5,NULL,1300,250,1550
+5774607,Wohnung,Friedlistrasse 25,Bern,3006,2,65,1600,200,1800
+5794257,Wohnung,Kramgasse 39,Bern,3011,3.5,NULL,2790,190,2980
+5843580,Wohnung,Güterstrasse 14,Bern,3008,3,NULL,1370,200,1570
+5867528,Wohnung,Egelgasse 47,Bern,3006,1.5,35,950,100,1050
+5889857,Wohnung,Brünnenstrasse 43a,Bern,3018,2.5,54,1415,130,1545
+5925929,Wohnung,Badgasse 4,Bern,3011,2.5,73,1680,260,1940
+5947398,Wohnung,Käsereistrasse 9,Niederscherli,3145,3.5,NULL,1288,210,1498
+5952502,Wohnung,Kramgasse 39,Bern,3011,2,NULL,1800,140,1940
+5973696,Wohnung,Riedbachstrasse 65,Bern,3027,3.5,NULL,1625,220,1845
+5987706,Wohnung,Riedbachstrasse 65,Bern,3027,3.5,NULL,1584,220,1804
+6110536,Wohnung,NULL,Bern,3011,3.5,100,3960,NULL,3960
+6140631,Wohnung,Freiburgstrasse 62,Bern,3008,2.5,51,NULL,NULL,1450
+6141059,Wohnung,Freiburgstrasse 58,Bern,3008,1,24,NULL,NULL,760
+6146317,Wohnung,"Zeughausgasse 27, Wohnungen",Bern,3011,2.5,72,1957,385,2342
+6155074,Wohnung,Giacomettistrasse 35,Bern,3006,7.5,NULL,3400,570,3970
+6177494,Wohnung,Kramgasse 14,Bern,3011,1.5,130,1580,300,1880
+6178547,Wohnung,Schwarzenburgstrasse 751,Niederscherli,3145,3.5,65,1190,200,1390
+6178549,Wohnung,Schwarzenburgstrasse 751,Niederscherli,3145,4.5,NULL,1350,240,1590
+6180457,Wohnung,Ostring 77,Bern,3006,2,47,1100,200,1300
+6187072,Wohnung,Tiefackerstrasse 78,Mittelhäusern,3147,4.5,120,1950,150,2100
+6190683,Wohnung,Brunnmattstrasse 24,Bern,3007,2.5,55,NULL,NULL,1230
+6192687,Wohnung,Käsereistrasse 9,Niederscherli,3145,4.5,NULL,1910,330,2240
+6200273,Wohnung,Schwarzenburgstrasse 829,Niederscherli,3145,4,NULL,1320,150,1470
+6203153,Wohnung,Junkerngasse,Bern,3011,4,260,NULL,NULL,NULL
+6203592,Wohnung,Schauplatzgasse 29,Bern,3011,1.5,22,1340,180,1520
+6204483,Wohnung,Giacomettistrasse 20,Bern,3006,2.5,NULL,1150,200,1350
+6212381,Wohnung,Bümplizstrasse 69,Bern,3018,1,43,1060,140,1200
+6217826,Wohnung,Looslistrasse 34,Bern,3027,3,NULL,1340,250,1590
+6232024,Wohnung,Untermattweg 34 B,Bern,3027,3.5,61,1200,270,1470
+6236126,Wohnung,Mühledorfstrasse 20,Bern,3018,4,NULL,1500,250,1750
+6243846,Wohnung,NULL,Bern,3011,2.5,70,3420,NULL,3420
+6251646,Wohnung,Kehrgasse 26,Bern,3018,3,NULL,1350,200,1550
+6277570,Wohnung,Schosshaldenstrasse 36,Bern,3006,3,81,1950,180,2130
+6277571,Wohnung,Schosshaldenstrasse 36,Bern,3006,2,59,1700,140,1840
+6279532,Wohnung,NULL,Bern,3011,2.5,75,1920,NULL,1920
+6292011,Wohnung,Riedbachstrasse 76,Bern,3027,4.5,112,2180,400,2580
+6300233,Wohnung,Brünnenstrasse 43,Bern,3018,3,63,1440,175,1615
+6300532,Wohnung,Mühledorfstrasse 1,Bern,3018,4.5,100,NULL,NULL,2190
+6300939,Wohnung,rathausgasse 52,Bern,3011,2,47,1570,130,1700
+6301787,Wohnung,Giacomettistrasse 16,Bern,3006,1,NULL,780,160,940
+6304411,Wohnung,Gantrischstrasse 53,Bern,3006,3,NULL,1320,160,1480
+6304988,Wohnung,Postgasse 54,Bern,3011,2.5,46,1750,200,1950
+6306244,Wohnung,Murtenstrasse 143 H,Bern,3008,4.5,123,2370,310,2680
+6310679,Wohnung,Rathausgasse 43,Bern,3011,1.5,23,1250,140,1390
+6313358,Wohnung,Murtenstrasse 147,Bern,3008,NULL,NULL,NULL,NULL,NULL
+6313373,Wohnung,Wasserwerkgasse 33,Bern,3011,5,NULL,3230,350,3580
+6319811,Wohnung,Federweg 41,Bern,3008,1,25,790,110,900
+6321329,Wohnung,Murtenstrasse 143 G,Bern,3008,4.5,123,2220,350,2570
+6322365,Wohnung,NULL,Bern,3027,3.5,80,1100,200,1300
+6323943,Wohnung,Giacomettistrasse,Bern,3006,1,22,NULL,NULL,550
+6324541,Wohnung,Brunngasse 25,Bern,3011,1,25,890,120,1010
+6324890,Wohnung,Bethlehemstrasse 24,Bern,3027,4,NULL,1650,250,1900
+6325595,Wohnung,Gerechtigkeitsgasse,Bern,3011,3.5,76,1850,200,2050
+6325881,Wohnung,Kehrgasse 22,Bern,3018,1.5,NULL,1350,100,1450
+6327830,Wohnung,Wattenwylweg 22,Bern,3006,2,25,700,50,750
+6328230,Wohnung,Münstergasse,Bern,3011,3,127,2720,140,2860
+6328254,Wohnung,OpenCourts - OC Gigonweg 10,Bern,3027,3.5,94,1970,320,2290
+2223600,Wohnung,Wabersackerstrasse 37a,Liebefeld,3097,3,NULL,1230,180,1410
+3940383,Wohnung,Stationsstrasse 21,Liebefeld,3097,1,30,610,100,710
+4195852,Wohnung,Alpenstrasse 49,Wabern,3084,2.5,90,1900,150,2050
+4267914,Wohnung,Wabersackerstr. 57,Liebefeld,3097,3.5,90,1560,240,1800
+4342419,Wohnung,Bächtelenweg 5,Wabern,3084,3.5,94,1845,250,2095
+4607960,Wohnung,Freiburgstrasse 521,Niederwangen b. Bern,3172,2,47,1000,200,1200
+5051571,Wohnung,Bächtelenweg 11,Wabern,3084,3.5,82,1665,300,1965
+5446740,Wohnung,Bodelenweg 100,Niederwangen b. Bern,3172,4.5,100,1800,240,2040
+5553598,Wohnung,Papillonallee 18a,Niederwangen b. Bern,3172,3.5,80,1630,200,1830
+5588482,Wohnung,Sonnenweg 30,Gümligen,3073,4.5,100,1818,260,2078
+5694839,Wohnung,Kirchackerstrasse 15,Muri b. Bern,3074,3.5,140,4450,520,4970
+5699583,Wohnung,Pourtalèsstrasse 66,Muri b. Bern,3074,2,113,1700,200,1900
+5786149,Wohnung,Looserstrasse 12,Wabern,3084,4,82,1465,225,1690
+5984382,Wohnung,Schürlirain 19,Niederwangen b. Bern,3172,4.5,110,2300,330,2630
+6112946,Wohnung,Schürlirain 19,Niederwangen b. Bern,3172,3,66,1380,210,1590
+6128787,Wohnung,Steingrubenweg 60,Spiegel b. Bern,3095,3.5,90,NULL,NULL,2030
+6161141,Wohnung,Steingrubenweg 60,Spiegel b. Bern,3095,3.5,NULL,1800,230,2030
+6176191,Wohnung,Chasseralstrasse 150,Spiegel b. Bern,3095,2,59,1150,180,1330
+6190362,Wohnung,Bellevuestrasse 133,Spiegel b. Bern,3095,3,NULL,1421,200,1621
+6194094,Wohnung,Kirchstrasse 140,Wabern,3084,3,65,1300,250,1550
+6194111,Wohnung,Thunstrasse 192,Muri b. Bern,3074,5.5,107,1675,320,1995
+6221354,Wohnung,Looserstrasse 2,Wabern,3084,4,82,1360,230,1590
+6223602,Wohnung,Seftigenstrasse 226,Wabern,3084,3,57,1260,220,1480
+6225251,Wohnung,untere Bernblickstrasse 2,Wabern,3084,2.5,NULL,1120,220,1340
+6233473,Wohnung,Papillonallee 2,Niederwangen b. Bern,3172,3.5,80,1680,200,1880
+6244155,Wohnung,Kräyigenweg 88,Muri b. Bern,3074,4.5,NULL,1900,300,2200
+6244285,Wohnung,Könizstrasse 267A,Liebefeld,3097,2.5,62,1230,210,1440
+6244810,Wohnung,Sonnenweg 32a,Gümligen,3073,4.5,94,NULL,NULL,2580
+6246084,Wohnung,Erikaweg 14,Köniz,3098,3,64,1430,220,1650
+6248973,Wohnung,Sonnenweg 4a,Köniz,3098,3.5,70,1300,230,1530
+6250661,Wohnung,Wabersackerstrasse 87,Liebefeld,3097,2.5,56,1150,220,1370
+6250989,Wohnung,Bodelenweg 100,Niederwangen b. Bern,3172,3.5,85,1585,210,1795
+6272808,Wohnung,Gurtenweg 51,Spiegel b. Bern,3095,1.5,28,860,130,990
+6275058,Wohnung,Thunstrasse 192,Muri b. Bern,3074,4.5,94,1650,260,1910
+6275318,Wohnung,Wabersackerstrasse 65,Liebefeld,3097,3,70,NULL,NULL,1490
+6276323,Wohnung,Gurtengartenstrasse 10,Spiegel b. Bern,3095,2.5,77,NULL,NULL,1850
+6281732,Wohnung,Kräyigenweg 18,Muri b. Bern,3074,3,116,NULL,NULL,2750
+6289498,Wohnung,NULL,Wabern,3084,1,30,1320,NULL,1320
+6294417,Wohnung,Kirchstrasse 150,Wabern,3084,3.5,76,1395,300,1695
+6298212,Wohnung,Freiburgstrasse 505 D,Bern,3018,5,120,2250,350,2600
+6300959,Wohnung,Wabersackerstrasse 27,Liebefeld,3097,2.5,NULL,1250,200,1450
+6304281,Wohnung,Schwarzenburgstrasse 232,Köniz,3098,3.5,85,1300,270,1570
+6304962,Wohnung,Breichtenstrasse 11,Muri b. Bern,3074,NULL,NULL,920,150,1070
+6305043,Wohnung,Wabersackerstrasse 27,Liebefeld,3097,3.5,NULL,1450,220,1670
+6307279,Wohnung,Sonnenweg 16,Köniz,3098,3.5,60,NULL,NULL,1450
+6308452,Wohnung,Schürlirain 29,Niederwangen b. Bern,3172,5.5,120,2120,290,2410
+6312792,Wohnung,Papillonallee 34a,Niederwangen b. Bern,3172,2.5,64,1450,170,1620
+6317135,Wohnung,NULL,Spiegel b. Bern,3095,3,75,3360,NULL,3360
+6319300,Wohnung,Tannackerstrasse 28A,Gümligen,3073,3.5,NULL,1490,290,1780
+6319577,Wohnung,Pourtalèsstrasse 50,Muri b. Bern,3074,5.5,181,3200,650,3850
+6323084,Wohnung,Aebnitstrasse 4,Muri b. Bern,3074,5.5,126,2850,275,3125
+6325586,Wohnung,Papillonallee 26,Niederwangen b. Bern,3172,3.5,80,1760,200,1960
+6325592,Wohnung,Papillonallee 26a,Niederwangen b. Bern,3172,3.5,79,1730,200,1930
+6326291,Wohnung,Looserstrasse 21,Wabern,3084,3.5,74,1410,240,1650
+6327910,Haus,Feldrainstrasse 61,Liebefeld,3097,7.5,240,4800,NULL,NULL
+6328248,Wohnung,Steingrubenweg,Spiegel b. Bern,3095,4.5,82,1370,260,1630
+6331684,Wohnung,Kirchstrasse 138,Wabern,3084,1,28,652,115,767
+6336089,Wohnung,Haldenweg 14,Muri b. Bern,3074,3.5,NULL,1910,260,2170
+6336521,Wohnung,Wiesenstrasse 24,Köniz,3098,2.5,60,1510,150,1660
+6337513,Wohnung,Bellevuestrasse 90,Spiegel b. Bern,3095,2.5,68,1260,320,1580
+6338689,Wohnung,Freiburgstrasse 499,Bern,3018,3,80,1450,0,1450
+6338829,Wohnung,Schwarzenburgstrasse 250,Köniz,3098,2,NULL,1100,150,1250
+6338944,Wohnung,Wiesenstrasse 24,Köniz,3098,2.5,NULL,1600,150,1750
+6340458,Wohnung,Bodelenweg 107,Niederwangen b. Bern,3172,3.5,75,1580,180,1760
+6340459,Wohnung,Bodelenweg 101,Niederwangen b. Bern,3172,4.5,104,1800,250,2050
+6341138,Wohnung,Sonnenweg 24A,Gümligen,3073,3.5,80,1500,215,1715
+6344856,Wohnung,Pourtalèsstrasse 15,Muri b. Bern,3074,4.5,NULL,2600,200,2800
+6344933,Wohnung,Wabersackerstrasse 26,Liebefeld,3097,2.5,54,1050,180,1230
+6345883,Wohnung,Kräyigenweg 93,Muri b. Bern,3074,4.5,107,1850,300,2150
+6345889,Wohnung,Könizstrasse 261,Liebefeld,3097,1.5,60,1320,170,1490
+6346389,Wohnung,Feldstrasse 3,Gümligen,3073,2,NULL,970,180,1150
+6348450,Wohnung,Fliederweg 8,Köniz,3098,3,NULL,NULL,NULL,1490
+6349942,Wohnung,Thunstrasse 152,Muri b. Bern,3074,3,75,1580,200,1780
+6350969,Wohnung,Kirchstrasse 142,Wabern,3084,3.5,76,1350,250,1600
+6351721,Wohnung,Schwendistutz 4,Niederwangen b. Bern,3172,3.5,60,1160,250,1410
+6352634,Wohnung,Bächtelenweg 75,Wabern,3084,3.5,102,2037,250,2287
+6352938,Wohnung,Tulpenweg 102,Köniz,3098,3.5,72,1380,460,1840
+6354102,Wohnung,Alpenstrasse 16,Wabern,3084,3.5,93,NULL,NULL,1940
+6354258,Wohnung,Wabersackerstrasse 15,Liebefeld,3097,3.5,NULL,1200,250,1450
+6354404,Wohnung,Wiesenstrasse 6,Köniz,3098,3.5,70,1250,210,1460
+6356012,Wohnung,Bodelenweg 100,Niederwangen b. Bern,3172,2.5,69,1300,170,1470
+6357279,Wohnung,Kastanienweg 55,Spiegel b. Bern,3095,5,NULL,1450,380,1830
+6357905,Wohnung,Könizstrasse 261,Liebefeld,3097,1.5,60,NULL,NULL,1490
+6359841,Wohnung,Erlenmattstrasse 27,Niederwangen b. Bern,3172,3,NULL,1040,250,1290
+6360755,Wohnung,NULL,Spiegel b. Bern,3095,3,75,3450,NULL,NULL
+6361189,Wohnung,Bächtelenweg 1,Wabern,3084,3.5,97,NULL,NULL,2061
+6361961,Wohnung,Seftigenstrasse 259,Wabern,3084,2.5,80,NULL,NULL,2500
+6361975,Wohnung,Seftigenstrasse 259,Wabern,3084,1,23,NULL,NULL,1450
+6362333,Wohnung,Kirchstrasse 12,Liebefeld,3097,2.5,64,1600,290,1890
+6362653,Wohnung,Fliederweg 4,Köniz,3098,2,55,NULL,NULL,1150
+6362734,Wohnung,Fliederweg 4,Köniz,3098,1.5,36,NULL,NULL,780
+6363472,Wohnung,Bächtelenweg 1,Wabern,3084,3.5,117,3100,350,3450
+6364836,Wohnung,Funkstrasse 86,Wabern,3084,1,25,610,100,710
+6364854,Wohnung,Könizstrasse 255,Liebefeld,3097,2.5,60,1220,200,1420
+6328635,Wohnung,Marktgasse 6/8,Bern,3011,2,65,1360,270,1630
+6328656,Wohnung,Schenkstrasse 21,Bern,3008,2.5,80,1500,210,1710
+6329706,Wohnung,Mühledorfstrasse 29,Bern,3018,2.5,53,1280,130,1410
+6331342,Wohnung,Güterstrasse 36,Bern,3008,2.5,55,1450,170,1620
+6331683,Wohnung,Looslistrasse 43,Bern,3027,3.5,65,1240,180,1420
+6332716,Wohnung,Bethlehemstr. 70,Bern,3018,3.5,NULL,1195,275,1470
+6333315,Wohnung,Gerbereiweg 27,Niederscherli,3145,2.5,NULL,1170,120,1290
+6334001,Wohnung,Marktgasse 20,Bern,3011,1,32,920,190,1110
+6334258,Wohnung,Brunnmattstrasse 20 A,Bern,3007,2.5,50,1205,190,1395
+6334347,Wohnung,Looslistrasse 59,Bern,3027,3,70,1140,250,1390
+6335014,Wohnung,Kehrgasse 24,Bern,3018,3,NULL,1350,200,1550
+6336425,Wohnung,Zelgstrasse 3,Bern,3027,NULL,45,1080,180,1260
+6336515,Wohnung,Gerbereiweg 20,Niederscherli,3145,4.5,87,1265,240,1505
+6336556,Wohnung,Postgasse 54,Bern,3011,5.5,112,4200,420,4620
+6336561,Wohnung,Postgasse 54,Bern,3011,2.5,49,1800,220,2020
+6338517,Wohnung,,Bern,3011,2,NULL,NULL,NULL,2342
+6338732,Wohnung,Haltenstr.151,Niederscherli,3145,4,NULL,NULL,NULL,1390
+6344269,Wohnung,Murtenstrasse 143 F,Bern,3008,4.5,105,2400,400,2800
+6344815,Wohnung,Schwarzenburgstrasse 973,Mittelhäusern,3147,3,NULL,1000,300,1300
+6346535,Wohnung,NULL,Bern,3011,2,48,1990,NULL,1990
+6346693,Wohnung,Klaraweg 39,Bern,3006,2,NULL,NULL,NULL,1300
+6347464,Wohnung,Untermattweg 72,Bern,3027,3.5,70,1230,200,1430
+6347466,Wohnung,Waldmannstrasse 10,Bern,3027,2.5,47,1000,250,1250
+6348115,Wohnung,Kappellenstrasse 23,Bern,3011,3,NULL,1410,250,1660
+6348899,Wohnung,NULL,Bern,3011,2.5,90,2375,NULL,2375
+6349759,Wohnung,"Klaraweg, 39",Bern,3006,2,60,1100,200,1300
+6350725,Wohnung,Mühledorfstrasse 4,Bern,3018,2.5,59,1345,150,1495
+6350731,Wohnung,Mühledorfstrasse 2,Bern,3018,2.5,51,1330,130,1460
+6350733,Wohnung,Mühledorfstrasse 4,Bern,3018,3,59,1480,150,1630
+6350970,Wohnung,Looslistrasse 41,Bern,3027,3.5,66,1220,180,1400
+6352172,Wohnung,OpenCourts - OC Gigonweg 4,Bern,3027,3.5,87,1780,310,2090
+6352183,Wohnung,OpenCourts - OC Gigonweg 6,Bern,3027,3.5,93,1795,310,2105
+6352184,Wohnung,Ziegelackerstrasse,Bern,3027,3,74,1090,280,1370
+6352195,Wohnung,OpenCourts - OC Gigonweg 10,Bern,3027,4.5,108,2140,360,2500
+6352853,Wohnung,Freiburgstrasse 68,Bern,3008,3.5,80,1500,180,1680
+6352868,Wohnung,Riedbachstrasse 81,Bern,3027,2.5,69,1345,235,1580
+6353277,Wohnung,Haslerstrasse 10,Bern,3008,1.5,40,NULL,NULL,1105
+6353465,Wohnung,Kramgasse 77,Bern,3011,1,30,NULL,NULL,490
+6354150,Wohnung,Colombstrasse 41,Bern,3027,3.5,97,1960,280,2240
+6354233,Wohnung,Schwarzenburgstrasse 767,Niederscherli,3145,1.5,59,750,200,950
+6356106,Wohnung,Freiburgstr. 62,Bern,3008,2.5,51,1325,125,1450
+6356522,Wohnung,Münstergasse 57,Bern,3011,3,73,2050,100,2150
+6357095,Wohnung,Postgasse 60,Bern,3011,4.5,153,3000,290,3290
+6357877,Wohnung,Waldmannstrasse 15,Bern,3027,1,16,NULL,NULL,620
+6358723,Wohnung,Güterstrasse  44,Bern,3008,3.5,75,NULL,NULL,1690
+6358796,Wohnung,Gigonweg 17,Bern,3027,3.5,85,1710,300,2010
+6359031,Wohnung,Laupenstrasse 2,Bern,3008,2.5,85,1980,220,2200
+6359180,Wohnung,Brunngasse 25,Bern,3011,3,75,1838,200,2038
+6359199,Wohnung,Schwarzenburgstrasse 973,Mittelhäusern,3147,4,NULL,1115,385,1500
+6360371,Wohnung,Haltenstrasse 311,Niederscherli,3145,1.5,32,650,80,730
+6360862,Wohnung,Weltistrasse 56,Bern,3006,3.5,110,2300,460,2760
+6361152,Wohnung,Gartenstrasse 16,Bern,3007,3,58,NULL,NULL,1506
+6361371,Wohnung,Normannenstrasse 35,Bern,3018,3.5,75,1275,220,1495
+6361375,Wohnung,Normannenstrasse 39,Bern,3018,4,76,1450,280,1730
+6361702,Wohnung,Güterstrasse 40,Bern,3008,2.5,74,1550,100,1650
+6362402,Wohnung,Brünnenstrasse 43A,Bern,3018,2.5,NULL,NULL,NULL,1425
+6363229,Wohnung,Güterstrasse 40,Bern,3000,2.5,62,1390,140,1530
+6363394,Wohnung,Gartenstrasse 11,Bern,3007,2.5,55,1150,160,1310
+6363809,Wohnung,Bümplizstrasse 9,Bern,3027,2,39,850,140,990
+6364138,Wohnung,Bantigerstrasse 37,Bern,3006,3.5,NULL,2690,230,2920
+6364742,Wohnung,Weltistrasse 32,Bern,3006,3.5,88,1380,250,1630
+3852254,Wohnung,Hängelenstrasse 10,Kehrsatz,3122,2.5,67,980,150,1130
+5556714,Wohnung,Gaselstrasse 23,Schliern b. Köniz,3098,3.5,73,1420,300,1720
+5714138,Wohnung,Buchholzweg 10,Schliern b. Köniz,3098,3.5,85,1300,220,1520
+5759055,Wohnung,Köniztalstrasse 10,Köniz,3098,4.5,81,1430,265,1695
+5853527,Wohnung,Dorfbachstrasse 58,Köniz,3098,2,50,NULL,NULL,750
+5885513,Wohnung,Froschweg 11,Schliern b. Köniz,3098,4.5,107,1780,360,2140
+5976494,Wohnung,Mösliweg 11,Köniz,3098,1,12,NULL,NULL,650
+6055758,Wohnung,Nesslerenweg 84,Wabern,3084,3.5,83,1750,240,1990
+6102428,Wohnung,Froschweg 9,Schliern b. Köniz,3098,4.5,107,1810,360,2170
+6105004,Wohnung,Talbodenstrasse 85,Schliern b. Köniz,3098,3.5,86,1650,300,1950
+6125478,Wohnung,Schaufelweg 95,Schliern b. Köniz,3098,3.5,82,1480,250,1730
+6126790,Wohnung,Plattenweg 32,Schliern b. Köniz,3098,3.5,100,1500,290,1790
+6164679,Wohnung,Bernstrasse 47,Kehrsatz,3122,3.5,NULL,1090,290,1380
+6182413,Wohnung,Hängelenstrasse 7,Kehrsatz,3122,5.5,129,1450,490,1940
+6182426,Wohnung,Hängelenstrasse 7,Kehrsatz,3122,5.5,129,1450,490,1940
+6185202,Wohnung,Meriedweg 41,Niederwangen b. Bern,3172,3.5,NULL,1480,260,1740
+6193322,Wohnung,Bernstrasse 29,Kehrsatz,3122,4.5,NULL,1400,250,1650
+6195361,Wohnung,NULL,Kehrsatz,3122,1,36,1625,NULL,1625
+6201645,Wohnung,Landorfstrasse 7,Köniz,3098,3,86,1800,230,2030
+6202518,Wohnung,Schwandenhubelstrasse 43,Schliern b. Köniz,3098,3,58,1260,230,1490
+6224122,Wohnung,Talbodenstrasse 66,Köniz,3098,4.5,114,2270,340,2610
+6234827,Wohnung,Forsthausweg 9,Kehrsatz,3122,3.5,70,1275,200,1475
+6257058,Wohnung,Fuhrenstr. 54,Schliern b. Köniz,3098,2,52,1250,190,1440
+6258479,Wohnung,Schwarzenburgstrasse 342,Köniz,3098,3.5,NULL,1280,210,1490
+6264501,Wohnung,Muhlernstrasse 141,Schliern b. Köniz,3098,4.5,104,1408,250,1658
+6277042,Wohnung,Wangentalstrasse 194,Oberwangen b. Bern,3173,4.5,102,1770,380,2150
+6280153,Wohnung,Gurtenstrasse 15,Kehrsatz,3122,4.5,NULL,1490,290,1780
+6291801,Wohnung,Bernstrasse 47,Kehrsatz,3122,3.5,NULL,1250,200,1450
+6299536,Wohnung,Büschiackerstrasse 12,Schliern b. Köniz,3098,3,73,1340,150,1490
+6299538,Wohnung,Büschiackerstrasse 20,Schliern b. Köniz,3098,3.5,85,1525,170,1695
+6299940,Wohnung,Hagwiesenstrasse 43,Kehrsatz,3122,2,48,680,250,930
+6303750,Wohnung,Köniztalstrasse 8,Köniz,3098,2.5,55,1180,210,1390
+6304148,Wohnung,Landorfstrasse 46,Köniz,3098,3,66,1420,170,1590
+6307737,Wohnung,Plattenweg 40,Schliern b. Köniz,3098,3.5,75,1480,260,1740
+6309755,Wohnung,Gurtenstrasse 7,Kehrsatz,3122,4.5,95,1280,250,1530
+6328229,Wohnung,Talbodenstrasse,Schliern b. Köniz,3098,3.5,89,2065,300,2365
+6328236,Wohnung,Sandbühlstrasse,Kehrsatz,3122,3.5,82,1450,220,1670
+6328240,Wohnung,Schaufelweg,Schliern b. Köniz,3098,3.5,87,1415,280,1695
+6328244,Wohnung,Bantigerweg,Kehrsatz,3122,4.5,112,1890,300,2190
+6328252,Wohnung,Sollrütistrasse 28,Schliern b. Köniz,3098,3.5,84,1340,260,1600
+6330251,Wohnung,Haldenweg 29,Muri b. Bern,3074,2,112,2000,300,2300
+6330595,Wohnung,Sandbühlstrasse 13A,Kehrsatz,3122,4.5,95,1730,320,2050
+6333765,Wohnung,Zimmerwaldstrasse 56,Kehrsatz,3122,4,120,2500,350,2850
+6335722,Wohnung,Belpstrasse 8,Kehrsatz,3122,3.5,NULL,1190,200,1390
+6335727,Wohnung,Bantigerweg 7,Kehrsatz,3122,4.5,NULL,1450,330,1780
+6335740,Wohnung,Spiegelstrasse 14,Spiegel b. Bern,3095,4.5,NULL,1965,250,2215
+6337298,Wohnung,Köniztalstrasse 8,Köniz,3098,4.5,81,1450,245,1695
+6339443,Wohnung,Spühlihalde 5,Schliern b. Köniz,3098,4.5,104,1750,270,2020
+6339461,Wohnung,Spühlihalde 5,Schliern b. Köniz,3098,4.5,107,1760,300,2060
+6339464,Wohnung,Spühlihalde 7,Schliern b. Köniz,3098,3.5,88,1450,250,1700
+6339469,Wohnung,Spühlihalde 3,Schliern b. Köniz,3098,4.5,144,2020,330,2350
+6339479,Wohnung,Spühlihalde 3,Schliern b. Köniz,3098,4.5,105,1750,240,1990
+6339485,Wohnung,Spühlihalde 7,Schliern b. Köniz,3098,4.5,106,1760,330,2090
+6341723,Wohnung,NULL,Oberwangen b. Bern,3173,1.5,43,NULL,NULL,1050
+6342495,Wohnung,Hagwiesenstrasse 47,Kehrsatz,3122,4.5,85,1145,350,1495
+6342581,Wohnung,Köniztalstrasse 8,Köniz,3098,1,22,650,110,760
+6352168,Wohnung,Talbodenstrasse,Schliern b. Köniz,3098,3.5,86,1625,310,1935
+6352169,Wohnung,Sollrütistrasse 28,Schliern b. Köniz,3098,4.5,116,1745,290,2035
+6352190,Wohnung,Sollrütistrasse 18,Schliern b. Köniz,3098,4.5,150,1950,360,2310
+6352696,Wohnung,Dörfliweg 3,Schliern b. Köniz,3098,1.5,35,810,160,970
+6355448,Wohnung,Forsthausweg 15,Kehrsatz,3122,2,43,900,150,1050
+6357422,Wohnung,Gaselstrasse 23,Schliern b. Köniz,3098,5.5,111,1910,360,2270
+6361862,Wohnung,Dorfbachstrasse 56,Köniz,3098,4.5,NULL,1330,280,1610
+6362026,Wohnung,Bernstrasse 51,Kehrsatz,3122,4,NULL,1250,250,1500
+6365083,Wohnung,Nesslerenweg 108,Wabern,3084,4.5,157,3575,420,3995
+6365084,Wohnung,Nesslerenweg 76,Wabern,3084,3.5,76,1710,220,1930
+3829729,Wohnung,,Bern,3012,3.5,130,2550,450,3000
+4162524,Wohnung,Berchtoldstrasse 58,Bern,3012,4,105,3084,200,3284
+4563138,Wohnung,Schwarzenburgstrasse 603,Gasel,3144,3.5,77,1250,180,1430
+5376626,Wohnung,Länggassstrasse 75,Bern,3012,1,NULL,380,185,565
+5398058,Wohnung,Schwarzenburgstrasse 605,Gasel,3144,3.5,70,1290,180,1470
+5708386,Wohnung,Engehaldenstrasse 53,Bern,3012,NULL,NULL,2500,390,2890
+5777161,Wohnung,Bernstrasse 130,Ostermundigen,3072,1,NULL,870,120,990
+5787201,Wohnung,Seidenweg 70,Bern,3012,2.5,50,1315,185,1500
+5833112,Wohnung,Obere Zollgasse 17a,Ostermundigen,3072,6,180,3100,500,3600
+5879097,Wohnung,Nordweg 10,Bern,3013,3.5,85,2420,280,2700
+5902951,Wohnung,Greyerzstrasse 19,Bern,3013,3.5,81,2240,250,2490
+5960768,Wohnung,Rütiweg 102,Ostermundigen,3072,3.5,NULL,1230,250,1480
+6017988,Wohnung,Talstrasse 38,Thörishaus,3174,3.5,75,1170,240,1410
+6099339,Wohnung,Waldeckstrasse 28,Ostermundigen,3072,3.5,NULL,1280,170,1450
+6105676,Wohnung,Ahornstrasse 11,Ostermundigen,3072,2.5,48,1240,150,1390
+6112078,Wohnung,Flurweg 38,Ostermundigen,3072,3,55,1170,180,1350
+6127377,Wohnung,Obere Zollgasse 7,Ostermundigen,3072,3,60,1170,220,1390
+6139596,Wohnung,Murtenstrasse 114,Frauenkappelen,3202,4.5,140,2150,200,2350
+6141133,Wohnung,Mitteldorfstrasse 44,Ostermundigen,3072,3,NULL,1220,170,1390
+6155652,Wohnung,Lorrainestrasse 52,Bern,3013,1,30,NULL,NULL,1950
+6170492,Wohnung,Schwarzenburgstrasse 601,Gasel,3144,4.5,89,1413,200,1613
+6178577,Wohnung,Rütiweg 124,Ostermundigen,3072,4,66,1090,270,1360
+6182415,Wohnung,Hängelenstrasse 3,Kehrsatz,3122,5.5,129,1450,490,1940
+6182496,Wohnung,Hängelenstrasse 1,Kehrsatz,3122,5.5,129,1450,490,1940
+6182534,Wohnung,Hängelenstrasse 1,Kehrsatz,3122,5.5,129,1450,490,1940
+6186699,Wohnung,Köhlerstrasse 15,Thörishaus,3174,4.5,85,1370,220,1590
+6189014,Wohnung,Ahornstrasse 11,Ostermundigen,3072,2,40,1050,150,1200
+6192223,Wohnung,Obere Zollgasse 7,Ostermundigen,3072,3,60,1160,240,1400
+6194115,Wohnung,Zentweg 21,Bern,3006,4.5,307,4685,539,5224
+6196290,Wohnung,Kilchgrundstrasse 23,Ostermundigen,3072,4,83,1300,250,1550
+6213567,Wohnung,Eichweg 27a,Ostermundigen,3072,2.5,60,1250,250,1500
+6215678,Wohnung,Centralweg 16,Bern,3013,3.5,110,1800,270,2070
+6223535,Wohnung,Köhlerstrasse 23,Thörishaus,3174,4.5,NULL,1570,210,1780
+6243811,Wohnung,Köhlerstrasse 21,Thörishaus,3174,3.5,75,1040,260,1300
+6254922,Wohnung,Bernstrasse 96A,Ostermundigen,3072,2.5,NULL,NULL,NULL,1750
+6268718,Wohnung,Blankweg 30,Ostermundigen,3072,2.5,NULL,1190,180,1370
+6289298,Wohnung,Vordere Länggasse,Bern,3012,4,NULL,2900,360,NULL
+6290399,Wohnung,Unt. Chaletweg 25,Ostermundigen,3072,3,NULL,1285,210,1495
+6292282,Wohnung,Köhlerstrasse 8,Thörishaus,3174,3,NULL,1077,270,1347
+6292321,Wohnung,Schwarzenburgstrasse 573,Gasel,3144,5.5,125,1440,300,1740
+6293556,Wohnung,Wichelackerstrasse 33,Gasel,3144,3.5,79,1220,260,1480
+6294758,Wohnung,Funkerstrasse 25,Bern,3013,2.5,80,1790,200,1990
+6295902,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse                      14",Ostermundigen,3072,4.5,109,2140,270,2410
+6296112,Wohnung,NULL,Bern,3012,3,85,3000,NULL,3000
+6296128,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,3.5,79,1690,200,1890
+6298892,Wohnung,Funkerstrasse 25,Bern,3013,2.5,80,NULL,NULL,1990
+6299335,Wohnung,Freiburgstrasse 923,Thörishaus,3174,3.5,NULL,1100,330,1430
+6305197,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,2.5,70,1590,180,1770
+6305360,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,2.5,63,1550,160,1710
+6305813,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,3.5,109,2450,270,2720
+6305815,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,1.5,33,860,80,940
+6305897,Wohnung,Kilchgrundstrasse 23,Ostermundigen,3072,3,70,1200,250,1450
+6308778,Wohnung,Obere Zollgasse 18,Ostermundigen,3072,3,NULL,1340,250,1590
+6312838,Wohnung,Neufeldstrasse 119,Bern,3012,1,21,NULL,NULL,795
+6315242,Wohnung,Bernstrasse 25,Ostermundigen,3072,3.5,70,1730,230,1960
+6320020,Wohnung,Spitalackerstrasse 51,Bern,3013,4.5,94,2300,265,2565
+6326297,Wohnung,NULL,Bern,3013,2.5,100,1813,NULL,1813
+6327743,Wohnung,Neuhusweg 24,Thörishaus,3174,3.5,75,1600,130,1730
+6329352,Wohnung,Rütiweg 128,Ostermundigen,3072,3,55,1120,220,1340
+6330090,Wohnung,Schönburgstrasse 56,Bern,3013,3,NULL,1680,210,1890
+6330594,Wohnung,Sensemattstrasse 21,Thörishaus,3174,2.5,65,1295,180,1475
+6331091,Wohnung,Bernstrasse 138,Ostermundigen,3072,3.5,70,1280,250,1530
+6332403,Wohnung,Köhlerstrasse 5,Thörishaus,3174,2,54,950,200,1150
+6333432,Wohnung,Bolligenstrasse 48 A,Bern,3006,2,61,1200,220,1420
+6334093,Wohnung,Bernstrasse 138,Ostermundigen,3072,2.5,55,1120,220,1340
+6334297,Wohnung,Bernstrasse 25,Ostermundigen,3072,4.5,108,2420,350,2770
+6335614,Wohnung,Sensemattstrasse 27,Thörishaus,3174,2.5,63,1285,205,1490
+2047645,Wohnung,Thunstrasse 94,Bern,3006,3.5,75,1450,210,1660
+2351482,Wohnung,Eigerstrasse 76,Bern,3007,3.5,115,2280,260,2540
+2524116,Wohnung,Oberbottigenweg 43,Bern,3019,3.5,87,1200,200,1400
+3404053,Wohnung,Bahnhöheweg 26,Bern,3018,3,75,1250,250,1500
+3840839,Wohnung,Pestalozzistrasse 34,Bern,3007,2.5,55,1300,200,1500
+4638404,Wohnung,Mülinenstrasse 3,Bern,3006,3.5,72,1320,260,1580
+4845148,Wohnung,Eigerweg 30,Gümligen,3073,4.5,NULL,1400,380,1780
+5135886,Wohnung,Schildknechtstrasse 30,Bern,3006,4.5,NULL,2400,350,2750
+5183866,Wohnung,Seftigenstrasse 36,Bern,3007,2,56,1180,200,1380
+5267664,Wohnung,Mülinenstrasse 25,Bern,3006,3,NULL,1220,220,1440
+5690697,Wohnung,Seftigenstrasse 38,Bern,3007,2,53,1250,170,1420
+5830688,Wohnung,Bümplizstrasse 198,Bern,3018,2,NULL,1000,220,1220
+5982680,Wohnung,Muristrasse 170,Bern,3006,3,98,1450,200,1650
+5999934,Wohnung,Lombachweg 6,Bern,3006,1,28,780,140,920
+6032167,Wohnung,Eigerstrasse 78,Bern,3007,2,56,1170,245,1415
+6033292,Wohnung,Bümplizstrasse 189,Bern,3018,2.5,49,1190,190,1380
+6048186,Wohnung,Muristrasse 61,Bern,3006,4.5,NULL,1920,285,2205
+6081736,Wohnung,NULL,Bern,3007,2.5,59,2375,NULL,2375
+6090084,Wohnung,Jupiterstrasse 41,Bern,3015,4.5,NULL,1750,350,2100
+6119722,Wohnung,Eigerstr. 58,Bern,3007,2,43,1200,190,1390
+6120408,Wohnung,Bernastrasse 67,Bern,3005,4.5,95,2420,330,2750
+6132433,Wohnung,Muristrasse 96,Bern,3006,3,81,2710,240,2950
+6137007,Wohnung,Muristrasse 88,Bern,3006,2,55,1450,220,1670
+6138149,Wohnung,NULL,Bern,3005,2,50,2880,NULL,2880
+6147773,Wohnung,Seftigenstrasse 44,Bern,3007,2.5,65,1410,180,1590
+6166604,Wohnung,Sulgenauweg 31,Bern,3007,2.5,52,1180,190,1370
+6171016,Wohnung,Aegertenstrasse 53,Bern,3005,3.5,110,2650,320,2970
+6175705,Wohnung,Dunantstrasse 4,Bern,3006,2.5,65,1210,180,1390
+6178972,Wohnung,Dennigkofenweg 1,Gümligen,3073,3,NULL,1500,240,1740
+6180000,Wohnung,Worbstrasse 95,Muri b. Bern,3074,3.5,NULL,1350,220,1570
+6194700,Wohnung,Seftigenstrasse 30,Bern,3007,4.5,100,2100,330,2430
+6194707,Wohnung,Seftigenstrasse 30,Bern,3007,4.5,100,2000,330,2330
+6207113,Wohnung,Weltpoststrasse 3,Bern,3015,2.5,67,1770,170,1940
+6216056,Wohnung,Dennigkofenweg 1,Gümligen,3073,2.5,57,1150,200,1350
+6222307,Wohnung,Nelkenweg 3,Bern,3006,3,NULL,2500,200,2700
+6222310,Wohnung,Nelkenweg 3,Bern,3006,3,NULL,2300,200,2500
+6229804,Wohnung,NULL,Bern,3007,4,100,3125,NULL,3125
+6230593,Wohnung,Heimstrasse 71,Bern,3018,3.5,NULL,1580,390,1970
+6243521,Wohnung,Brüggliweg 9,Gümligen,3073,3,54,1100,200,1300
+6250999,Wohnung,Dennigkofenweg 7,Gümligen,3073,4.5,110,2500,250,2750
+6251465,Wohnung,Worbstrasse 76,Muri b. Bern,3074,3.5,97,1329,280,1609
+6254853,Wohnung,NULL,Bern,3005,4.5,112,5748,NULL,5748
+6258945,Wohnung,Worbstrasse 137,Gümligen,3073,3.5,78,1400,300,1700
+6268782,Wohnung,Alleeweg 32,Bern,3006,2,NULL,1080,220,1300
+6269292,Haus,Bottigenstrasse 376,Bern,3020,5.5,220,3200,NULL,NULL
+6271675,Wohnung,NULL,Bern,3018,1,27,NULL,NULL,980
+6273444,Wohnung,Olivenweg 50,Bern,3018,2.5,55,1250,150,1400
+6275368,Wohnung,Jupiterstrasse 29/05,Bern,3015,NULL,NULL,497,75,572
+6277072,Wohnung,Frankenstrasse 24,Bern,3018,3,NULL,1250,180,1430
+6283133,Wohnung,Nelkenweg 4,Bern,3006,2,NULL,1120,260,1380
+6294982,Wohnung,Dennigkofenweg 1,Gümligen,3073,1,NULL,675,100,775
+6295856,Wohnung,Schillingstrasse 34,Bern,3005,3.5,90,1700,200,1900
+6299626,Wohnung,NULL,Bern,3005,5.5,150,7680,NULL,7680
+6299668,Wohnung,Jupiterstrasse 43,Bern,3015,5.5,115,1790,350,2140
+6300934,Wohnung,Friedheimweg 9,Bern,3007,3.5,78,1650,280,1930
+6309185,Wohnung,Schwarzenburgstrasse 4,Bern,3007,3.5,70,1250,230,1480
+6317220,Wohnung,Bottigenstrasse 71,Bern,3018,2,91,1372,275,1647
+6317476,Wohnung,Burgunderstrasse 99,Bern,3018,3.5,81,1579,250,1829
+6317857,Wohnung,Weissensteinstrasse 20,Bern,3008,3,NULL,1530,200,1730
+6317997,Wohnung,Wabernstrasse 51,Bern,3007,3,72,1340,220,1560
+6320478,Wohnung,Seftigenstrasse 47,Bern,3007,1.5,NULL,1290,150,1440
+6322045,Wohnung,Thunstr. 51,Bern,3005,2,NULL,NULL,NULL,950
+6324891,Wohnung,Sulgenauweg 38,Bern,3007,3,65,1165,275,1440
+6325560,Wohnung,Scharnachtalstrasse 2,Bern,3006,2.5,82,1450,220,1670
+6325886,Wohnung,Burgunderstrasse 85,Bern,3018,3,65,1175,200,1375
+6329296,Wohnung,Graffenriedweg 14,Bern,3007,2.5,66,1500,200,1700
+6329533,Wohnung,Thunstrasse,Bern,3006,3.5,100,NULL,NULL,2300
+6332320,Wohnung,Schwarzenburgstrasse 16,Bern,3007,3,100,1640,295,1935
+6332468,Wohnung,Sprünglistrasse 7,Bern,3006,3,70,1380,200,1580
+6332828,Wohnung,Sulgeneckstrasse 48,Bern,3007,1,25,NULL,NULL,800
+6333594,Wohnung,Dennigkofenweg 3,Gümligen,3073,3.5,70,1300,180,1480
+6333675,Wohnung,Burgunderstrasse 13,Bern,3018,3.5,NULL,1425,120,1545
+6333927,Wohnung,Pestalozzistrasse 18,Bern,3007,3.5,NULL,1735,250,1985
+1645427,Wohnung,Bernstrasse 59,Bern,3018,3.5,88,1400,210,1610
+2388764,Wohnung,Kirchstrasse 11a,Bolligen,3065,3.5,NULL,1280,250,1530
+2579360,Wohnung,Bolligenstrasse 126,Bolligen,3065,5,145,2450,200,2650
+3846500,Wohnung,Steinerstrasse 17,Bern,3006,3.5,85,2000,250,2250
+4544895,Wohnung,Worblentalstrasse 105,Ittigen,3063,2.5,55,1250,100,1350
+4780076,Wohnung,Obereyfeldweg 31,Ittigen,3063,4,NULL,1450,250,1700
+5231846,Wohnung,Ankerstrasse 8,Bern,3006,3,80,1610,260,1870
+5232552,Wohnung,Felshaldenweg 23,Bern,3004,2,NULL,1220,170,1390
+5263085,Wohnung,Obereyfeldweg 33,Ittigen,3063,3,NULL,1190,170,1360
+5365930,Wohnung,Tscharnerstrasse 43,Bern,3007,3,65,1555,145,1700
+5374601,Wohnung,Blockweg 8,Bern,3007,4.5,98,2030,270,2300
+5409409,Wohnung,Dennigkofenweg 77,Gümligen,3073,4.5,NULL,1700,250,1950
+5490746,Wohnung,Egelgasse 70 / 70a,Bern,3006,3.5,60,1315,200,1515
+5655005,Wohnung,Schlossstrasse 115,Bern,3008,2,45,890,150,1040
+5661845,Wohnung,NULL,Bern,3006,4.5,130,1800,NULL,1800
+5721081,Wohnung,Rörswilstrasse 62,Bolligen,3065,4.5,NULL,1720,250,1970
+5754834,Wohnung,Im Gerbelacker 2,Ittigen,3063,4.5,NULL,1680,300,1980
+5793096,Wohnung,Seminarstrasse 11,Bern,3006,4.5,110,2500,300,2800
+5805660,Wohnung,Schwarztorstrasse 25,Bern,3007,1,40,1120,130,1250
+5820143,Wohnung,Thunstrasse 93,Bern,3006,2.5,60,1400,150,1550
+5850512,Wohnung,Hilfikerstrasse 2,Bern,3014,5,85,2994,256,3250
+5910495,Wohnung,Brünnenstrasse 113,Bern,3018,1,28,1100,100,1200
+5937766,Wohnung,Europaplatz 1,Bern,3008,2.5,60,1770,200,1970
+5971909,Wohnung,Felshaldenweg 33,Bern,3004,2.5,NULL,1100,110,1210
+5972897,Wohnung,Hilfikerstrasse 4,Bern,3014,2.5,55,1590,160,1750
+5974082,Wohnung,Europaplatz 1,Bern,3008,2.5,69,1696,220,1916
+5983561,Wohnung,Jolimontstrasse 19,Bern,3006,3.5,65,1700,200,1900
+5984884,Wohnung,Europaplatz 1,Bern,3008,2.5,73,1550,215,1765
+6006737,Wohnung,Europaplatz 1,Bern,3008,2.5,61,1810,200,2010
+6042991,Wohnung,Europaplatz 1,Bern,3008,2.5,59,1800,220,2020
+6065707,Wohnung,Lutertalstrasse 49-55,Bolligen,3065,3.5,104,1900,300,2200
+6073886,Wohnung,Belpstrasse 67,Bern,3007,2.5,NULL,1650,140,1790
+6075474,Wohnung,Egelgasse 70 / 70a,Bern,3006,3.5,60,1315,200,1515
+6078658,Wohnung,Reichenbachstrasse 11,Bern,3004,3.5,62,1280,210,1490
+6079458,Wohnung,Europaplatz 1,Bern,3008,3.5,91,2025,265,2290
+6087299,Wohnung,Lutertalstrasse 49-55,Bolligen,3065,4.5,127,2190,350,2540
+6088034,Wohnung,Dählhölzliweg 3,Bern,3005,2.5,119,1850,220,2070
+6106231,Wohnung,Thunstrasse 93,Bern,3006,3.5,60,1560,200,1760
+6132322,Wohnung,Alemannenstrasse 40,Bern,3018,3.5,80,1350,240,1590
+6132328,Wohnung,Alemannenstrasse 44,Bern,3018,3.5,87,1390,240,1630
+6132330,Wohnung,Alemannenstrasse 44,Bern,3018,3.5,87,1390,240,1630
+6155597,Wohnung,Im Gerbelacker 12,Ittigen,3063,4.5,NULL,1680,300,1980
+6158972,Wohnung,Obereyfeldweg 33,Ittigen,3063,3,NULL,NULL,NULL,1360
+6169180,Wohnung,Europaplatz 1,Bern,3008,2.5,63,1580,200,1780
+6180920,Wohnung,Europaplatz 1,Bern,3008,2.5,61,1680,220,1900
+6184158,Wohnung,Winterholzstrasse 55,Bern,3018,1,183,2700,300,3000
+6185044,Wohnung,Kistlerstrasse 16,Bolligen,3065,3.5,NULL,1700,290,1990
+6187786,Wohnung,Sonnenhofweg 7,Bern,3006,2,50,1475,125,1600
+6194121,Wohnung,Untereyfeldweg 1,Ittigen,3063,3.5,78,1395,200,1595
+6194974,Wohnung,Kistlerstrasse 43,Bolligen,3065,6.5,NULL,1980,500,2480
+6194976,Wohnung,Stöckackerstrasse 101,Bern,3018,3,57,1260,200,1460
+6203601,Wohnung,Freiburgstrasse 123B,Bern,3008,3.5,NULL,1325,252,1577
+6213871,Wohnung,Hühnerbühlstrasse 4,Bolligen,3065,5.5,137,1850,270,2120
+6220761,Wohnung,Mittelweg 17,Ittigen,3063,2.5,NULL,NULL,NULL,1610
+6228306,Wohnung,Bienenstrasse 2,Bern,3018,3.5,60,1180,230,1410
+6235821,Wohnung,Kirschenackerweg 24,Ittigen,3063,4,96,2040,300,2340
+6239133,Wohnung,Ostring 56,Bern,3006,2,65,1100,220,1320
+6242734,Wohnung,Winterholzstrasse 55,Bern,3018,3.5,96,2050,220,2270
+6248503,Wohnung,Seminarstrasse 25,Bern,3006,1.5,82,1740,220,1960
+6249138,Wohnung,Melchenbühlweg 81,Bern,3006,5.5,NULL,3400,300,3700
+6250716,Wohnung,Giacomettistrasse 8,Bern,3006,2.5,NULL,1200,170,1370
+6251279,Wohnung,Badhausstrasse 21,Ittigen,3063,2.5,NULL,1160,180,1340
+6253082,Wohnung,NULL,Bern,3006,1,30,1440,NULL,1440
+6254812,Wohnung,Ostring 24,Bern,3006,2.5,65,1500,150,1650
+6255779,Wohnung,,Bern,3000,NULL,NULL,1082,160,1242
+6258934,Wohnung,Myrtenweg 31,Bern,3018,2.5,NULL,1200,200,1400
+6265689,Wohnung,Obereyfeldweg 25 A,Ittigen,3063,2.5,NULL,1100,200,1300
+6273742,Wohnung,Blockweg 8,Bern,3007,4.5,146,2770,430,3200
+6280354,Wohnung,NULL,Bern,3000,2,80,1450,NULL,1450
+6286734,Wohnung,Monbijoustrasse 29,Bern,3011,2,66,1400,130,1530
+6289497,Wohnung,NULL,Bern,3006,2,70,2280,NULL,2280
+6291330,Wohnung,Dennigkofenweg 77,Gümligen,3073,3.5,NULL,1450,240,1690
+6335655,Wohnung,Forstweg 65,Bern,3012,1,NULL,670,115,785
+6335664,Wohnung,Jurablickweg 19,Ostermundigen,3072,NULL,NULL,250,30,280
+6335750,Wohnung,Talstrasse 34a,Thörishaus,3174,4.5,NULL,1500,190,1690
+6337329,Wohnung,Randweg 17,Bern,3013,1,44,790,160,950
+6337338,Wohnung,Randweg 17,Bern,3013,3.5,85,1460,230,1690
+6338803,Wohnung,Breitenrainstrasse 11,Bern,3013,4.5,NULL,2790,305,3095
+6338814,Wohnung,Mittelholzerstrasse 14,Bern,3006,3,NULL,1145,275,1420
+6339043,Wohnung,Bernstrasse 48,Ostermundigen,3072,2,NULL,1085,190,1275
+6343577,Wohnung,Schwarzenburgstrasse 583,Gasel,3144,4.5,95,1670,300,1970
+6344270,Wohnung,Brückfeldstr. 19,Bern,3012,2,44,1320,170,1490
+6344481,Wohnung,Mitteldorfstrasse 17,Ostermundigen,3072,2.5,70,1200,250,1450
+6346248,Wohnung,Murtenstrasse 108,Frauenkappelen,3202,3.5,94,1900,250,2150
+6346984,Wohnung,Bernstrasse 128,Ostermundigen,3072,3,NULL,1290,220,1510
+6347537,Wohnung,Breitenrainstrasse 31,Bern,3013,1,NULL,NULL,NULL,660
+6347596,Wohnung,Mittelstrasse 53,Bern,3012,1,33,890,110,1000
+6348494,Wohnung,"Hochfeldstrasse, 55",Bern,3012,2,48,1420,130,1550
+6348901,Wohnung,NULL,Bern,3012,3.5,NULL,2150,NULL,2150
+6349706,Wohnung,Krummeneggweg 80,Gasel,3144,4.5,120,NULL,NULL,1800
+6349881,Wohnung,Muesmattstrasse 48,Bern,3012,3,57,1700,175,1875
+6349897,Wohnung,Eichweg 24,Ostermundigen,3072,3.5,NULL,1320,180,1500
+6350174,Wohnung,Allmendstrasse 5,Bern,3014,2.5,100,2100,270,2370
+6350429,Wohnung,Gesellschaftsstrasse 75,Bern,3012,2,NULL,1520,190,1710
+6351018,Wohnung,Blumensteinstrasse 18,Bern,3012,3,NULL,1119,250,1369
+6352682,Wohnung,NULL,Thörishaus,3174,2.5,100,1980,NULL,1980
+6353044,Wohnung,Bernstrasse 25,Ostermundigen,3072,2.5,68,1490,220,1710
+6354157,Wohnung,Spitalackerstrasse 20,Bern,3013,3.5,70,1400,200,1600
+6354302,Wohnung,Köhlerstrasse 21,Thörishaus,3174,4.5,93,1450,260,1710
+6354307,Wohnung,Bernstrasse 54a,Ostermundigen,3072,3.5,110,1650,330,1980
+6354749,Wohnung,sCHLÄLISTRASSE,Bern,3013,1.5,30,NULL,NULL,1080
+6356037,Wohnung,Mitteldorfstrasse 51,Ostermundigen,3072,4,NULL,1248,250,1498
+6356072,Wohnung,Schermenweg 172,Ostermundigen,3072,1,25,630,120,750
+6357184,Wohnung,Brückfeldstr. 19,Bern,3012,2,44,1270,170,1440
+6357537,Wohnung,Mitteldorfstrasse 44,Ostermundigen,3072,3,NULL,1250,150,1400
+6358837,Wohnung,Bernstrasse 10,Ostermundigen,3072,3.5,58,1010,220,1230
+6359765,Haus,NULL,Ostermundigen,3072,4.5,96,2000,NULL,2000
+6359776,Wohnung,Bolligenstrasse 48 A,Bern,3006,4.5,99,1770,380,2150
+6360252,Wohnung,Blankweg 26,Ostermundigen,3072,2.5,NULL,1190,180,1370
+6360904,Wohnung,Obere Zollgasse 29a,Ostermundigen,3072,3.5,73,1380,240,1620
+6360948,Wohnung,Flurweg 62,Ostermundigen,3072,3,63,1300,240,1540
+6362535,Wohnung,NULL,Bern,3013,2.5,70,1875,NULL,1875
+6363013,Wohnung,Ringstrasse 25,Ostermundigen,3072,3.5,58,NULL,NULL,NULL
+6363459,Wohnung,Quartiergasse 3,Bern,3013,1,28,720,150,870
+6363780,Wohnung,Randweg 13,Bern,3013,2,40,1020,170,1190
+6364216,Wohnung,Quartiergasse 29,Bern,3013,3,NULL,1218,275,1493
+6364261,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse 14",Ostermundigen,3072,2.5,67,1590,170,1760
+6364262,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse                      14",Ostermundigen,3072,1.5,33,840,80,920
+6364263,Wohnung,"Wohnen mit Service und Dienstleistungen, Grubenstrasse                      14",Ostermundigen,3072,3.5,87,1660,220,1880
+6364615,Wohnung,Sensemattstrasse 31,Thörishaus,3174,2.5,61,1290,220,1510
+6364616,Wohnung,Sensemattstrasse 31,Thörishaus,3174,3.5,77,1570,230,1800
+6334257,Wohnung,Hopfenweg 37,Bern,3007,4,78,1930,140,2070
+6335333,Wohnung,Seftigenstrasse 30,Bern,3007,1.5,41,920,170,1090
+6335365,Wohnung,Wiesenstrasse 17,Gümligen,3073,4.5,74,1350,120,1470
+6335745,Wohnung,Seftigenstrasse 43,Bern,3007,2.5,NULL,1330,200,1530
+6335910,Wohnung,Mülinenstrasse 23,Bern,3006,4,NULL,1750,220,1970
+6336242,Wohnung,NULL,Bern,3005,2,55,2700,250,2950
+6340100,Wohnung,NULL,Bern,3007,3,80,2300,NULL,2300
+6340101,Wohnung,NULL,Bern,3007,2,55,1560,NULL,1560
+6340633,Wohnung,Holligenstrasse 121,Bern,3008,2.5,57,1150,190,1340
+6342679,Wohnung,Weltpoststrasse 3,Bern,3015,4.5,100,2370,250,2620
+6342993,Wohnung,Elfenstrasse 3,Bern,3006,5,146,4500,500,5000
+6344878,Wohnung,Bernstrasse 90,Bern,3018,3.5,70,1600,250,1850
+6345203,Wohnung,Jupiterstrasse 31,Bern,3015,4.5,NULL,1850,380,2230
+6346262,Wohnung,Weissenbühlweg 31,Bern,3007,3,NULL,1190,200,1390
+6347228,Wohnung,Bahnhöheweg 40,Bern,3018,2.5,NULL,900,265,1165
+6347727,Wohnung,Jupiterstrasse 7,Bern,3015,3.5,75,1540,240,1780
+6348125,Wohnung,Steinauweg 23,Bern,3007,2.5,84,1730,240,1970
+6351531,Wohnung,Jupiterstrasse 45,Bern,3015,2.5,50,NULL,NULL,1097
+6354298,Wohnung,Eigerstrasse 22,Bern,3007,2.5,80,2400,100,2500
+6354339,Wohnung,Elfenauweg 23,Bern,3006,3,74,1605,235,1840
+6355889,Wohnung,Kirchenfeldstr. 55,Bern,3005,4.5,107,2630,290,2920
+6356071,Wohnung,Statthalterstrasse 37,Bern,3018,3,NULL,1350,240,1590
+6356299,Wohnung,NULL,Bern,3005,4.5,112,4600,350,4950
+6357746,Wohnung,Wabernstrasse 71,Bern,3007,3,85,NULL,NULL,1690
+6359144,Wohnung,Kirchenfeldstrasse 74,Bern,3005,NULL,60,2000,NULL,NULL
+6359186,Wohnung,Jubiläumsstrasse 73,Bern,3005,4,NULL,1935,215,2150
+6360155,Wohnung,Holzikofenweg 29,Bern,3007,2.5,50,NULL,NULL,1500
+6363312,Wohnung,Weltpoststrasse 1,Bern,3015,3.5,93,2410,220,2630
+6363452,Wohnung,Dunantstrasse 6,Bern,3006,4.5,NULL,1820,280,2100
+6363788,Wohnung,Weltpoststrasse 8c,Bern,3015,2.5,98,1730,320,2050
+6364256,Wohnung,NULL,Bern,3005,3.5,NULL,1992,NULL,1992
+6364757,Wohnung,Sulgenauweg 54,Bern,3007,2.5,68,1255,210,1465
+1501317,Wohnung,Wangenstrasse 54,Bern,3018,3.5,NULL,1025,240,1265
+2660845,Wohnung,Beethovenstrasse 18,Gümligen,3073,3.5,75,1400,90,1490
+2867393,Wohnung,"Lido Park, Worbstrasse 346",Gümligen,3073,3.5,102,2200,150,2350
+3686438,Wohnung,Schulhausstrasse 3,Gümligen,3073,4.5,117,2350,300,2650
+4286504,Wohnung,Längfeldstrasse 60,Ittigen,3063,4,85,1380,200,1580
+4295199,Wohnung,Längfeldstrasse 68,Ittigen,3063,3.5,NULL,1150,270,1420
+4321112,Wohnung,Ittigenstrasse 8a,Ittigen,3063,3.5,85,1450,345,1795
+4578477,Wohnung,Dorfstrasse 91,Bolligen,3065,5.5,200,2700,350,3050
+4760281,Wohnung,Längfeldstrasse 58,Ittigen,3063,3,NULL,1160,130,1290
+4819644,Wohnung,Matterstrasse 2,Bern,3006,4.5,124,2800,330,3130
+4923787,Wohnung,Schulhausstrasse 5,Gümligen,3073,3.5,86,1889,250,2139
+5058728,Wohnung,Dorfstrasse 26,Gümligen,3073,3.5,85,1400,180,1580
+5484301,Wohnung,Grauholzstrasse 62,Ittigen,3063,3,63,1090,200,1290
+5753152,Wohnung,Eichenweg 4,Ittigen,3063,2.5,80,1580,250,1830
+5848271,Wohnung,Lindenhofstrasse 34,Worblaufen,3048,4.5,73,1100,250,1350
+5863091,Wohnung,Eichenweg 2,Ittigen,3063,2.5,66,1590,220,1810
+5929053,Wohnung,Zwinglistrasse 18,Bern,3007,2.5,56,NULL,NULL,2360
+5959199,Wohnung,thunstrasse,Muri b. Bern,3074,4.5,120,1680,250,1930
+5992973,Wohnung,Jurastrasse 15,Ittigen,3063,2.5,84,1420,250,1670
+6024289,Wohnung,Seftigenstrasse 198,Wabern,3084,5.5,132,2912,300,3212
+6047858,Wohnung,Längfeldstrasse 16,Ittigen,3063,3,63,1240,250,1490
+6070345,Wohnung,Frikartweg 21,Bern,3006,4.5,129,2335,360,2695
+6087302,Wohnung,Lutertalstrasse 55,Bolligen,3065,5.5,145,2480,400,2880
+6100747,Wohnung,Beethovenstrasse 19,Gümligen,3073,5,NULL,1690,300,1990
+6104312,Wohnung,Beethovenstrasse 21,Gümligen,3073,4.5,80,1600,250,1850
+6107269,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,2.5,61,1500,180,1680
+6118672,Wohnung,Längfeldstrasse 62,Ittigen,3063,3,67,1320,190,1510
+6126817,Wohnung,Tannackerstrasse 10a,Gümligen,3073,3.5,NULL,1260,200,1460
+6131708,Wohnung,Villettengässli 1,Muri b. Bern,3074,4.5,110,2250,300,2550
+6149367,Wohnung,Kohlenweg 20,Liebefeld,3097,3,70,1306,260,1566
+6169317,Wohnung,Jurastrasse 65,Ittigen,3063,2.5,84,1340,190,1530
+6178901,Wohnung,Fischrainweg 5,Worblaufen,3048,NULL,NULL,30,NULL,30
+6180775,Wohnung,Seftigenstrasse 54,Bern,3007,3.5,70,1450,285,1735
+6184994,Wohnung,Wangenstrasse 62,Bern,3018,3.5,NULL,1350,230,1580
+6184998,Wohnung,Wangenstrasse 62,Bern,3018,1.5,NULL,1050,100,1150
+6194089,Wohnung,Funkstrasse 124,Wabern,3084,3,59,1360,215,1575
+6194779,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,2.5,59,1500,170,1670
+6194978,Wohnung,Turbenweg 1 B,Gümligen,3073,3.5,92,2150,230,2380
+6197620,Wohnung,Jurastrasse 15,Ittigen,3063,4.5,98,1540,270,1810
+6207110,Wohnung,Stampachgasse 6,Bolligen,3065,3.5,103,1430,320,1750
+6212374,Wohnung,Worblaufenstrasse 178,Worblaufen,3048,3,NULL,1400,250,1650
+6214999,Wohnung,Chutzenstrasse 48,Bern,3007,3,69,1240,250,1490
+6215000,Wohnung,Bondelistrasse 50,Wabern,3084,2,59,1165,220,1385
+6215785,Wohnung,Bondelistrasse 52,Wabern,3084,3,89,1350,300,1650
+6215786,Wohnung,Thomasweg 23,Liebefeld,3097,3.5,69,1120,230,1350
+6215787,Wohnung,Thomasweg 19,Liebefeld,3097,4.5,80,1190,250,1440
+6215789,Wohnung,Thomasweg 29,Liebefeld,3097,2.5,53,920,125,1045
+6218217,Wohnung,Turbenweg 1 A,Gümligen,3073,3.5,91,2611,230,2841
+6222036,Wohnung,NULL,Gümligen,3073,4.5,105,3124,NULL,3124
+6225670,Wohnung,Ittigenstrasse 10,Ittigen,3063,3.5,94,2000,250,2250
+6225936,Wohnung,Chutzenstrasse 46,Bern,3007,3,NULL,1380,220,1600
+6252085,Haus,Jungfraustrasse 20,Muri b. Bern,3074,5,NULL,3400,200,3600
+6260562,Wohnung,Belpstrasse 4,Muri b. Bern,3074,4.5,146,2400,340,2740
+6262830,Wohnung,Bondelistrasse 52,Wabern,3084,2,59,1175,220,1395
+6262832,Wohnung,Turbenweg 1 D,Gümligen,3073,4.5,136,2466,340,2806
+6263196,Wohnung,Thomasweg 9,Liebefeld,3097,2.5,53,1005,165,1170
+6263351,Wohnung,Lutertalstr. 62,Bolligen,3065,4.5,116,1450,380,1830
+6263353,Wohnung,Lutertalstr. 60,Bolligen,3065,4.5,141,1730,440,2170
+6265852,Wohnung,Fuchsweg 7,Liebefeld,3097,4.5,NULL,1700,400,2100
+6272864,Wohnung,Sandrainstrasse 93,Bern,3007,4,102,2550,300,2850
+6277374,Wohnung,Beethovenstrasse 36,Gümligen,3073,2.5,NULL,1300,230,1530
+6280329,Wohnung,Sportweg 15,Liebefeld,3097,2.5,NULL,1180,160,1340
+6284163,Wohnung,Hessstrasse 39,Liebefeld,3097,4.5,NULL,1670,270,1940
+6285800,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,4.5,99,2050,290,2340
+6286867,Wohnung,Grauholzstrasse 58a,Ittigen,3063,4.5,100,1680,300,1980
+6287251,Wohnung,Jurastrasse 25,Ittigen,3063,5.5,112,1850,330,2180
+6287252,Wohnung,Jurastrasse 67,Ittigen,3063,2.5,65,1140,180,1320
+6289904,Wohnung,Asylstrasse 38,Ittigen,3063,3.5,81,1255,230,1485
+6294418,Wohnung,Funkstrasse 124,Wabern,3084,3.5,76,1515,300,1815
+6295011,Wohnung,Lindenhofstrasse 18,Worblaufen,3048,3.5,NULL,NULL,NULL,1470
+6293342,Wohnung,Talgut-Zentrum 38,Ittigen,3063,3.5,82,1560,180,1740
+6296106,Wohnung,Tiefenaustrasse 141,Bern,3004,3,62,1465,190,1655
+6302968,Wohnung,Tiefenaustrasse 135,Bern,3004,3,NULL,1290,200,1490
+6303143,Wohnung,Kehrgasse 36,Bern,3018,3.5,NULL,1190,260,1450
+6304080,Wohnung,Gantrischstrasse 10,Bern,3006,4,125,2000,380,2380
+6304205,Wohnung,Ostring 21,Bern,3006,3,76,1350,170,1520
+6310833,Wohnung,Tscharnerstrasse 28,Bern,3007,4.5,94,1900,350,2250
+6313184,Wohnung,Tscharnerstrasse 37,Bern,3007,3.5,79,1680,170,1850
+6316303,Wohnung,Talgutzentrum 26,Ittigen,3063,3.5,83,1430,240,1670
+6317088,Wohnung,"Flugbrunnenstrasse, 22",Bolligen,3065,4.5,109,1700,350,2050
+6318674,Wohnung,NULL,Bern,3008,2,36,1620,NULL,1620
+6319113,Wohnung,NULL,Bern,3008,2,40,1620,NULL,1620
+6320520,Wohnung,Myrtenweg 6,Bern,3018,3.5,65,1400,230,1630
+6325492,Wohnung,Bernstrasse 57,Bern,3018,3.5,NULL,1500,240,1740
+6325494,Wohnung,Reichenbachstrasse 87A,Bern,3004,3.5,105,1950,350,2300
+6325630,Wohnung,Ostring 14,Bern,3006,2.5,58,1260,200,1460
+6328046,Wohnung,Brunnhofweg 47,Bern,3007,2.5,50,NULL,NULL,1650
+6328210,Wohnung,Kasthoferstrasse,Bern,3006,4,90,1585,260,1845
+6328260,Wohnung,Werkgasse,Bern,3018,2.5,57,1080,250,1330
+6328542,Wohnung,Bernstrasse 52,Bern,3018,3,73,1450,150,1600
+6328688,Wohnung,nähe Inselspital,Bern,3008,NULL,210,3900,300,4200
+6330391,Wohnung,Mattenhofstrasse 37,Bern,3007,3.5,80,1395,250,1645
+6331581,Wohnung,Werkgasse 14,Bern,3018,5,NULL,1500,370,1870
+6331893,Wohnung,Lorbeerstr.7,Bern,3018,3.5,NULL,1400,200,1600
+6332188,Wohnung,Badhausstrasse 21,Ittigen,3063,3,52,1270,190,1460
+6334368,Wohnung,NULL,Bern,3006,3.5,85,1760,230,1990
+6334945,Wohnung,Stöckackerstrasse 101,Bern,3018,3,68,1115,230,1345
+6335029,Wohnung,Weststrasse 4,Bern,3005,2.5,102,2200,220,2420
+6335124,Wohnung,Burgernzielweg 18,Bern,3006,3.5,NULL,1130,220,1350
+6335901,Wohnung,Brünnenstrasse 108,Bern,3018,2.5,NULL,1180,210,1390
+6336625,Wohnung,Ostring 19,Bern,3006,3,61,1190,170,1360
+6336669,Wohnung,Huberstrasse 22,Bern,3008,3.5,68,NULL,NULL,1675
+6338480,Wohnung,Talweg 2,Ittigen,3063,3.5,70,NULL,NULL,NULL
+6339442,Wohnung,Hintere Engehaldestrasse 10,Bern,3004,2.5,87,1450,200,1650
+6339475,Wohnung,Hintere Engehaldestrasse 12,Bern,3004,3.5,86,1550,250,1800
+6339893,Wohnung,Werkgasse 43,Bern,3018,1,30,NULL,NULL,875
+6340331,Wohnung,Giacomettistrasse 8,Bern,3006,1,28,830,120,950
+6340332,Wohnung,Giacomettistrasse 8,Bern,3006,2,45,1200,170,1370
+6340333,Wohnung,Giacomettistrasse 8,Bern,3006,1,28,780,120,900
+6340634,Wohnung,Bolligenstrasse 122,Bolligen,3065,2.5,NULL,1000,180,1180
+6341292,Wohnung,Hühnerbühlstrasse 21,Bolligen,3065,3.5,84,1050,250,1300
+6341462,Wohnung,Lutertalpark 10,Bolligen,3065,3.5,85,1876,340,2216
+6341646,Wohnung,Indermühleweg 5,Bern,3018,3,62,1090,300,1390
+6342295,Wohnung,Riedbachstrasse 97,Bern,3027,3.5,91,1670,270,1940
+6342296,Wohnung,Riedbachstrasse 89,Bern,3027,3.5,95,1715,325,2040
+6342877,Wohnung,NULL,Bern,3006,2.5,70,1950,NULL,1950
+6344553,Wohnung,Talgut-Zentrum 16,Ittigen,3063,2.5,65,1120,150,1270
+6345162,Wohnung,Badhausstrasse 35,Ittigen,3063,3,NULL,1095,230,1325
+6345269,Wohnung,Talweg 15,Ittigen,3063,3.5,139,NULL,NULL,NULL
+6345659,Wohnung,Buchserstrasse 20,Bern,3006,2.5,60,1450,130,1580
+6345891,Wohnung,Schloss-Strasse 141,Bern,3008,1,31,710,150,860
+6346390,Wohnung,Brunnmattstrasse 51,Bern,3007,1,29,825,100,925
+6346977,Wohnung,Badhausstrasse 11,Ittigen,3063,3.5,NULL,1460,250,1710
+6347835,Wohnung,NULL,Ittigen,3063,2,65,990,190,1180
+6348034,Wohnung,Ochsenbeinstrasse 8,Bern,3008,3.5,72,1220,280,1500
+6348334,Wohnung,NULL,Bolligen,3065,3.5,145,2950,320,3270
+6348430,Wohnung,Hühnerbühlstrasse 161,Bolligen,3065,3.5,92,2250,200,2450
+6348956,Wohnung,Stöckackerstrasse 104,Bern,3018,1,NULL,890,80,970
+6351091,Wohnung,Mühlemattstrasse 57,Bern,3007,1,48,1350,180,1530
+6351634,Wohnung,NULL,Bern,3006,1,30,1536,NULL,1536
+6351773,Wohnung,Reichenbachstrasse 16,Bern,3004,3,NULL,1260,230,1490
+6352111,Wohnung,Reichenbachstrasse 16,Bern,3004,3,NULL,1410,200,1610
+6352187,Wohnung,Freiburgstrasse,Bern,3008,3,70,1340,250,1590
+6352422,Wohnung,Egelgasse 66,Bern,3006,3,69,1170,200,1370
+6352751,Wohnung,Brunnhofweg 47,Bern,3007,2.5,50,1450,200,1650
+6353377,Wohnung,Tscharnerstrasse 39 A,Bern,3007,2,50,NULL,NULL,1430
+6353389,Wohnung,Könizstrasse 28,Bern,3008,2,54,NULL,NULL,1300
+6354091,Wohnung,Werkgasse 43,Bern,3018,1,28,775,120,895
+6355065,Wohnung,Vorderer Schermen 5b,Ittigen,3063,3.5,NULL,1566,220,1786
+6355950,Wohnung,Wagnerstrasse 8,Bern,3007,1,27,1030,120,1150
+6356120,Wohnung,Brünnenstrasse 55,Bern,3018,3.5,86,1119,310,1429
+6356213,Wohnung,Im Gerbelacker 14,Ittigen,3063,4.5,NULL,1600,270,1870
+6356229,Wohnung,Zieglerstrasse 36,Bern,3007,1,NULL,720,160,880
+6357186,Wohnung,Gutenbergstr. 35,Bern,3011,1.5,48,1190,140,1330
+6357423,Wohnung,Einschlagstr. 15,Bolligen,3065,3.5,84,1390,290,1680
+6357521,Wohnung,Einschlagstrasse 20,Bolligen,3065,3.5,114,1830,250,2080
+6357585,Wohnung,Tscharnerstrasse 39,Bern,3007,2.5,NULL,1540,110,1650
+6358397,Wohnung,Tscharnerstrasse 39 a,Bern,3007,2,50,1280,150,1430
+6358635,Wohnung,NULL,Bern,3007,1,NULL,160,790,950
+6358930,Wohnung,Bernstrasse 57,Bern,3018,3,NULL,1330,240,1570
+6359251,Wohnung,Mattenhofstrasse 20,Bern,3007,2.5,NULL,NULL,NULL,NULL
+6359561,Wohnung,Sonnenhofweg 19,Bern,3006,2.5,NULL,1213,250,1463
+6359588,Wohnung,Kirchstrasse 5,Bolligen,3065,4.5,NULL,1550,200,1750
+6359735,Wohnung,Bümplizstrasse 107,Bern,3018,2.5,NULL,1300,200,1500
+6361148,Wohnung,Stapfenackerstrasse 60,Bern,3018,1.5,35,NULL,NULL,1049
+6361379,Wohnung,Giessereiweg 4,Bern,3007,3.5,90,2000,220,2220
+6361572,Wohnung,Gutenbergstr. 35,Bern,3011,2,61,1400,190,1590
+6361575,Wohnung,Gutenbergstr. 39,Bern,3011,3.5,66,1810,230,2040
+6361998,Wohnung,Kehrgasse 59,Bern,3018,3.5,NULL,1380,250,1630
+6362206,Wohnung,Aarstrasse 102,Bern,3005,2,35,1100,160,1260
+6362405,Wohnung,Mattenhofstrasse 37,Bern,3007,3,80,1260,250,1510
+6362466,Wohnung,Ostring 73,Bern,3006,2,50,1320,130,1450
+6362536,Wohnung,NULL,Bern,3006,2,35,1680,NULL,1680
+6363043,Wohnung,Hintere Engehaldestrasse 12,Bern,3004,3.5,107,1650,250,1900
+6363180,Wohnung,Engehaldestrasse 198A,Bern,3004,3.5,95,2850,350,3200
+6363705,Wohnung,Tiefenaustrasse 84,Bern,3004,3,57,1100,200,1300
+6364068,Wohnung,Wintermattweg 15,Bern,3018,3,62,1450,200,1650
+6364257,Wohnung,NULL,Bern,3004,2,NULL,1203,NULL,1203
+6364460,Wohnung,Ostring 73,Bern,3006,2,60,NULL,NULL,1150
+1622392,Wohnung,Neubrückstrasse 127,Bern,3012,2.5,70,2300,350,2650
+1745328,Wohnung,Zielweg 5,Bern,3014,2.5,60,1300,250,1550
+2543448,Wohnung,Pappelweg 46,Bern,3013,2,NULL,1290,150,1440
+3707844,Wohnung,Scheibenstrasse 47,Bern,3014,1,NULL,960,100,1060
+3957333,Wohnung,Waldstätterstr. 11,Bern,3014,2.5,60,1120,160,1280
+5113340,Wohnung,Pappelweg 8,Ostermundigen,3072,3.5,64,1210,240,1450
+5120001,Wohnung,NULL,Bern,3014,1,22,NULL,NULL,1150
+5247303,Wohnung,Winkelriedstrasse 28,Bern,3014,4.5,NULL,1420,230,1650
+5692901,Wohnung,Wylerstrasse 109,Bern,3014,3.5,NULL,2100,400,2500
+5765072,Wohnung,Melchtalstrasse 29,Bern,3014,1,35,1000,160,1160
+5829900,Wohnung,Parkstrasse 11,Bern,3014,1.5,22,690,170,860
+5887920,Wohnung,Unterdorfstrasse 27,Ostermundigen,3072,5.5,110,1350,345,1695
+5903510,Wohnung,Bernstrasse 147,Ostermundigen,3072,4,87,1250,300,1550
+6003848,Wohnung,Wylerfeldstrasse 45,Bern,3014,2,53,1160,210,1370
+6025809,Wohnung,Bernstrasse 147a,Ostermundigen,3072,3,64,1100,230,1330
+6115608,Wohnung,Wiesenstrasse 10,Ostermundigen,3072,2,48,1201,230,1431
+6124615,Wohnung,NULL,Bern,3014,1,26,2310,NULL,2310
+6127376,Wohnung,Flurstrasse 14,Bern,3014,2,64,950,200,1150
+6128116,Wohnung,Unterdorfstr. 45,Ostermundigen,3072,4.5,92,1630,315,1945
+6161959,Wohnung,Bernstrasse 154,Ostermundigen,3072,1,12,NULL,NULL,600
+6170783,Wohnung,Unterdorfstrasse 17,Ostermundigen,3072,4.5,93,1390,290,1680
+6202814,Wohnung,Waffenweg 21,Bern,3014,3,80,NULL,NULL,1710
+6246010,Wohnung,Unterdorfstrasse 29,Ostermundigen,3072,3.5,83,1010,185,1195
+6254708,Wohnung,Bernstrasse 121,Ostermundigen,3072,4.5,104,2120,260,2380
+6254711,Wohnung,Bernstrasse 121 c,Ostermundigen,3072,4.5,104,2050,280,2330
+6255685,Wohnung,Stauffacherstrasse 12,Bern,3014,3,70,2100,250,2350
+6261895,Wohnung,Wankdorffeldstrasse 101,Bern,3014,1.5,59,1420,200,1620
+6280440,Wohnung,Unterdorfstrasse 9,Ostermundigen,3072,5.5,109,1500,400,1900
+6283472,Wohnung,Nobsstrasse 5,Ostermundigen,3072,5.5,NULL,1650,400,2050
+6283937,Wohnung,Bernstrasse 119,Ostermundigen,3072,3.5,76,1360,200,1560
+6285399,Wohnung,Forelstr. 46,Ostermundigen,3072,4.5,95,1630,330,1960
+6288543,Wohnung,Nobsstrasse 9,Ostermundigen,3072,4.5,90,1500,290,1790
+6290155,Wohnung,Pappelweg 48,Bern,3013,3,67,1460,200,1660
+6291447,Wohnung,Waldstätterstrasse 23,Bern,3014,4,90,1900,290,2190
+6299849,Wohnung,Forelstr. 44,Ostermundigen,3072,4.5,96,1590,300,1890
+6303887,Wohnung,NULL,Bern,3014,2,45,NULL,NULL,1449
+6304185,Wohnung,Bernstrasse 180,Ostermundigen,3072,2,67,1510,180,1690
+6304228,Wohnung,Bernstrasse 180,Ostermundigen,3072,2,66,1470,200,1670
+6305278,Wohnung,Morgartenstrasse 1,Bern,3014,3,59,1300,190,1490
+6308955,Wohnung,Melchtalstrasse 14,Bern,3014,3,50,1260,190,1450
+6313138,Wohnung,Attinghausenstrasse 26,Bern,3014,3.5,NULL,1720,200,1920
+6313368,Wohnung,Wylerringstrasse 68,Bern,3014,2.5,NULL,1340,160,1500
+6315839,Wohnung,Unterdorfstrasse 2,Ostermundigen,3072,3.5,74,1150,300,1450
+6327519,Wohnung,Wylerringstrasse 68,Bern,3014,6,152,2550,750,3300
+6328204,Wohnung,Scheibenstrasse,Bern,3014,3,75,1350,290,1640
+6330528,Wohnung,Unterdorfstrasse 47,Ostermundigen,3072,5.5,111,1680,300,1980
+6331553,Wohnung,Nobsstrasse 5,Ostermundigen,3072,4.5,NULL,1480,320,1800
+6333417,Wohnung,Wankdorffeldstrasse 73,Bern,3014,4.5,120,NULL,NULL,2300
+6333749,Wohnung,Nobsstrasse 5,Ostermundigen,3072,3.5,NULL,1160,250,1410
+6334737,Wohnung,Scheibenstrasse 47,Bern,3014,2.5,NULL,1380,170,1550
+6336511,Wohnung,Waffenweg 25,Bern,3014,2.5,53,1241,180,1421
+6336550,Wohnung,Winkelriedstrasse 7,Bern,3014,2.5,75,1400,200,1600
+6336552,Wohnung,Wiesenstrasse 83,Bern,3014,3.5,103,2300,310,2610
+6344139,Wohnung,NULL,Bern,3014,1,80,875,NULL,875
+6347467,Wohnung,Winkelriedstrasse 51,Bern,3014,2,NULL,1250,170,1420
+6348778,Wohnung,Talweg 8A,Bern,3013,2,NULL,1155,135,1290
+6349085,Wohnung,Allmendstrasse 51,Bern,3014,1,35,760,150,910
+6349415,Wohnung,Morgartenstrasse 27,Bern,3014,1.5,NULL,890,140,1030
+6352154,Wohnung,NULL,Bern,3014,3,105,2300,280,2580
+6352860,Wohnung,Flurstrasse 24,Bern,3014,3.5,70,1400,150,1550
+6353219,Wohnung,Bantigerstrasse 31,Ostermundigen,3072,3,68,1350,200,1550
+6353562,Wohnung,Winkelriedstr. 13,Bern,3014,3.5,66,1310,195,1505
+6353905,Wohnung,Diesbachstrasse 1,Bern,3012,3.5,114,390,1937,2327
+6354362,Wohnung,Waffenweg 22,Bern,3014,3.5,67,1350,210,1560
+6354406,Wohnung,Rodtmattstrasse 52,Bern,3014,2.5,53,1400,200,1600
+6355818,Wohnung,Pappelweg 43,Bern,3013,2,NULL,1000,230,1230
+6356011,Wohnung,Kilchgrundstrasse 31,Ostermundigen,3072,3.5,NULL,1360,240,1600
+6356207,Wohnung,Parkstrasse 7,Bern,3014,2.5,49,1220,210,1430
+6356214,Wohnung,Forelstrasse 42,Ostermundigen,3072,4.5,NULL,1530,350,1880
+6356228,Wohnung,Kilchgrundstrasse 31,Ostermundigen,3072,4.5,NULL,1490,290,1780
+6356570,Wohnung,NULL,Bern,3014,3,80,1782,NULL,1782
+6357793,Wohnung,NULL,Bern,3014,1,NULL,NULL,NULL,600
+6357953,Wohnung,Wankdorffeldstrasse 77,Bern,3014,3.5,104,1950,350,NULL
+6357954,Wohnung,NULL,Bern,3014,3.5,104,1950,350,NULL
+6359391,Wohnung,Schärerstrasse 9,Bern,3014,2.5,60,NULL,NULL,1580
+6359753,Wohnung,Wiesenstrasse 52,Ostermundigen,3072,3.5,NULL,1155,220,1375
+6359850,Wohnung,Rodtmattstrasse 99,Bern,3014,2.5,NULL,1180,160,1340
+6360308,Wohnung,Kilchgrundstrasse 33,Ostermundigen,3072,2.5,50,940,250,1190
+6361447,Wohnung,Greyerzstrasse 93,Bern,3013,2,47,1290,150,1440
+6362030,Wohnung,Beaulieustrasse 49,Bern,3012,1,NULL,650,80,730
+6362228,Wohnung,Dr. Zuber-Strasse 2,Ostermundigen,3072,2.5,52,1220,150,1370
+6362232,Wohnung,Dr. Zuber-Strasse 2a,Ostermundigen,3072,2.5,52,1220,150,1370
+6363491,Wohnung,Rodtmattstrasse 83,Bern,3014,2,44,1270,140,1410
+6363810,Wohnung,Grubenstrasse 20,Ostermundigen,3072,3,NULL,1210,250,1460
+6363829,Wohnung,Wankdorffeldstrasse 101,Bern,3014,1,19,750,100,850
+6364098,Wohnung,Elisabethenstrasse 21,Bern,3014,4.5,NULL,3050,360,3410
+6364576,Wohnung,Unterdorfstrasse 9,Ostermundigen,3072,3.5,80,1000,270,1270
+6365049,Wohnung,Winkelriedstrasse 46,Bern,3014,2,51,1350,170,1520
+6298555,Wohnung,Belpstrasse 6,Muri b. Bern,3074,4,NULL,1820,280,2100
+6299320,Wohnung,Aebnitstrasse 30a-c,Muri b. Bern,3074,3.5,NULL,2150,250,2400
+6299539,Wohnung,Beethovenstrasse 29,Gümligen,3073,3.5,75,1240,250,1490
+6302747,Wohnung,Heckenweg 6,Bern,3007,3.5,82,1510,230,1740
+6306327,Wohnung,Jurastrasse 53,Ittigen,3063,2.5,87,1310,270,1580
+6311456,Wohnung,Funkstrasse 112,Wabern,3084,1,26,570,135,705
+6313253,Wohnung,Kohlenweg 12,Liebefeld,3097,1,24,730,140,870
+6313456,Wohnung,Landoltstrasse 60,Bern,3007,3,66,1350,250,1600
+6315950,Wohnung,NULL,Liebefeld,3097,2.5,68,1830,160,1990
+6317330,Wohnung,Heckenweg 41,Bern,3007,3,NULL,1550,210,1760
+6322054,Wohnung,Freiburgstrasse,Bern,3018,3.5,80,NULL,NULL,1300
+6323435,Wohnung,Aebnitstrasse 30a-c,Muri b. Bern,3074,5.5,NULL,3900,350,4250
+6325127,Wohnung,Schwarzenburgstrasse 67,Bern,3008,4.5,108,NULL,NULL,2490
+6325618,Wohnung,Seftigenstrasse 209,Wabern,3084,2,39,996,170,1166
+6327703,Wohnung,Schubertweg 14,Gümligen,3073,4.5,100,2200,300,2500
+6328253,Wohnung,Fischrain,Ittigen,3063,4.5,95,1885,340,2225
+6328262,Wohnung,Fischrain,Ittigen,3063,3.5,81,1565,350,1915
+6328942,Wohnung,Giessenweg 1,Wabern,3084,2,71,1400,250,1650
+6329083,Wohnung,Reutigenweg 4,Muri b. Bern,3074,2,NULL,1200,110,1310
+6330153,Wohnung,Morgenstrasse 128,Bern,3018,3.5,75,1130,260,1390
+6330506,Wohnung,Bondelistrasse 64,Wabern,3084,1,24,690,120,810
+6333842,Wohnung,Friedheimweg 20,Bern,3007,3,78,1570,220,1790
+6334943,Wohnung,Grauholzstrasse 37,Ittigen,3063,1,18,600,90,690
+6335268,Wohnung,Landoltstrasse 60,Bern,3007,3,64,1350,180,1530
+6335748,Wohnung,Beethovenstrasse 10,Gümligen,3073,5.5,NULL,2305,100,2405
+6336500,Wohnung,Zinggstrasse 25,Bern,3007,4,110,1630,250,1880
+6336621,Wohnung,Worbstrasse 222,Gümligen,3073,3,NULL,1330,250,1580
+6337239,Wohnung,Roschistrasse 11,Bern,3007,3,63,1290,230,1520
+6338751,Wohnung,Lindenhofstrasse 24,Worblaufen,3048,3.5,NULL,1200,200,1400
+6339084,Wohnung,Funkstrasse 102,Wabern,3084,1,26,559,150,709
+6339085,Wohnung,Funkstrasse 108,Wabern,3084,1,26,548,110,658
+6339088,Wohnung,Funkstrasse 112,Wabern,3084,1,25,585,120,705
+6340192,Wohnung,Egghölzliweg 4,Muri b. Bern,3074,2.5,70,1474,140,1614
+6340336,Wohnung,Grauholzstrasse 69,Ittigen,3063,3.5,68,1200,250,1450
+6340977,Wohnung,Beethovenstrasse 18,Gümligen,3073,5,100,1910,110,2020
+6341713,Wohnung,Bondelistrasse,Wabern,3084,1,27,NULL,NULL,810
+6341837,Wohnung,Roschistrasse 6,Bern,3007,1,30,NULL,NULL,800
+6344826,Wohnung,,Gümligen,3073,3.5,110,1600,250,1850
+6345208,Wohnung,Morillonstrasse 46,Bern,3007,3,NULL,1295,200,1495
+6345425,Wohnung,Längfeldstrasse 26,Ittigen,3063,3.5,NULL,1200,180,1380
+6345536,Wohnung,Längfeldstrasse 50,Ittigen,3063,3,69,1140,220,1360
+6346895,Wohnung,Kranichweg 7,Muri b. Bern,3074,3.5,82,1850,200,2050
+6347382,Wohnung,Hardeggerstrasse 31,Bern,3008,2.5,88,2000,280,2280
+6349011,Wohnung,Beethovenstrasse 30,Gümligen,3073,3.5,NULL,1300,220,1520
+6349145,Wohnung,Chrottegässli 2,Bolligen,3065,1,NULL,NULL,NULL,NULL
+6349155,Wohnung,Storchenweg 11,Muri b. Bern,3074,3,NULL,1600,200,1800
+6349887,Wohnung,Reichenbachstrasse 120,Bern,3004,1.5,28,1050,200,1250
+6350700,Wohnung,Lindenhofstrasse 22,Worblaufen,3048,3.5,NULL,1150,210,1360
+6350712,Wohnung,Quartierweg 7,Muri b. Bern,3074,5.5,NULL,2001,270,2271
+6352933,Wohnung,Waldeggstrasse 7,Liebefeld,3097,3.5,79,1605,220,1825
+6354650,Wohnung,Jurastrasse 9,Ittigen,3063,1.5,42,950,130,1080
+6355075,Wohnung,Jubiläumsstrasse 97a,Bern,3005,2,55,NULL,NULL,1575
+6355146,Wohnung,Funkstrasse 99,Wabern,3084,4.5,112,1640,300,1940
+6355917,Wohnung,Steinhölzliweg 75,Bern,3007,2,NULL,1220,170,1390
+6355954,Wohnung,Hessstrasse 47,Liebefeld,3097,2,47,1000,250,1250
+6357185,Wohnung,Beethovenstrasse 40,Gümligen,3073,4.5,91,1700,200,1900
+6358301,Wohnung,Worbstrasse 190b,Gümligen,3073,4,91,1700,250,1950
+6358449,Wohnung,"Ittigenstrasse, 4",Ittigen,3063,3,105,1100,250,1350
+6358805,Wohnung,Längfeldstrasse 64,Ittigen,3063,4,77,1420,240,1660
+6358925,Wohnung,Schönauweg 10b,Bern,3007,2,54,895,180,1075
+6359143,Wohnung,Schwarzenburgstrasse 127,Liebefeld,3097,2.5,68,1170,220,1390
+6359686,Wohnung,Funkstrasse 93,Wabern,3084,3.5,90,1726,250,1976
+6360270,Wohnung,Längfeldstrasse 50,Ittigen,3063,3,69,1140,220,1360
+6360313,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,2.5,55,1500,160,1660
+6360314,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,2.5,59,1520,170,1690
+6360315,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,3.5,98,2000,290,2290
+6360316,Wohnung,Schwarzenburgstrasse 73,Liebefeld,3097,NULL,88,1840,260,2100
+6360901,Wohnung,Wilkerstrasse 50-78,Liebefeld,3097,5.5,119,2350,460,2810
+6361576,Wohnung,Beethovenstrasse 46,Gümligen,3073,3.5,73,1520,255,1775
+6361609,Wohnung,Matzenriedstrasse 49,Bern,3019,4.5,105,1900,60,1960
+6361646,Wohnung,Landhausweg 31,Bern,3007,3.5,89,1477,160,1637
+6361971,Wohnung,Mattenstrasse 6,Gümligen,3073,2.5,47,NULL,NULL,1950
+6363045,Wohnung,Stettlerstrasse 9,Bern,3006,1,33,650,110,760
+6363164,Wohnung,Wangenstrasse 86b,Bern,3018,3.5,65,1190,230,1420
+6363331,Wohnung,Sandrainstrasse 111,Wabern,3084,4.5,133,1950,380,2330
+6363481,Wohnung,Längfeldstrasse 70,Ittigen,3063,4.5,NULL,1280,290,1570
+6363483,Wohnung,Morillonstrasse 46,Bern,3007,3,NULL,1295,200,1495
+6363565,Wohnung,Wilkerstrasse 24,Liebefeld,3097,3.5,122,2440,250,2690
+6363801,Wohnung,Frikartweg 21,Bern,3006,4.5,129,2347,360,2707
+6364149,Wohnung,Längfeldstrasse 54,Ittigen,3063,3,69,1170,220,1390
+6364155,Wohnung,Längfeldstrasse 52,Ittigen,3063,4,81,1250,250,1500
+6364639,Wohnung,Fuchshubelstrasse 7,Ittigen,3063,4.5,80,1100,275,1375
+6364746,Wohnung,Hüsliackerstrasse 11,Bern,3018,2.5,71,1215,220,1435
+6364747,Wohnung,Hüsliackerstrasse 23,Bern,3018,3.5,79,1490,200,1690
